@@ -1,7 +1,5 @@
 // vite.config.js
 export default {
-    build: {
-        // config options
-        base: '/djaw-map'
-    }
+    // config options
+    base: '/djaw-map'
 }
