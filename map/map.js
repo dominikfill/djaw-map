@@ -1,4 +1,4 @@
-import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7/+esm';
+import locations from './data/djaw-locations.tsv?url';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
@@ -48,8 +48,10 @@ async function fetchAndParsTSV(url) {
     return [];
   }
 }
+
 function populateMap() {
-  fetchAndParsTSV('map/data/djaw-locations.tsv').then((data) => {
+  fetchAndParsTSV(locations).then((data) => {
+    console.log(data);
     for (const i in data) {
       const row = data[i];
 
@@ -67,6 +69,7 @@ function populateMap() {
 }
 
 populateMap();
+
 /*
 window.onload = function () {
     if (localStorage.getItem("hasCodeRunBefore") === null) {
