@@ -49,7 +49,7 @@ async function fetchAndParsTSV(url) {
   }
 }
 function createMap() {
-  fetchAndParsTSV('/data/djaw-locations.tsv').then((data) => {
+  fetchAndParsTSV('map/data/djaw-locations.tsv').then((data) => {
     for (const i in data) {
       const row = data[i];
 
