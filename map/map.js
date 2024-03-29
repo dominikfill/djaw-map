@@ -48,22 +48,25 @@ async function fetchAndParsTSV(url) {
     return [];
   }
 }
+function createMap() {
+  fetchAndParsTSV('/data/djaw-locations.tsv').then((data) => {
+    for (const i in data) {
+      const row = data[i];
 
-fetchAndParsTSV('/data/djaw-locations.tsv').then((data) => {
-  for (const i in data) {
-    const row = data[i];
+      const popup = `<h1>${
+        row.name_modern != '' ? row.name_modern : row.name_historical
+      }</h1>`;
 
-    const popup = `<h1>${
-      row.name_modern != '' ? row.name_modern : row.name_historical
-    }</h1>`;
+      var marker = L.marker([row.lat, row.lon], {
+        opacity: 1,
+      }).bindPopup(popup);
 
-    var marker = L.marker([row.lat, row.lon], {
-      opacity: 1,
-    }).bindPopup(popup);
+      marker.addTo(map);
+    }
+  });
+}
 
-    marker.addTo(map);
-  }
-});
+createMap();
 /*
 window.onload = function () {
     if (localStorage.getItem("hasCodeRunBefore") === null) {
