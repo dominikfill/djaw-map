@@ -1,13 +1,13 @@
 import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7/+esm';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
-    'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
-    {
-        attribution:
-            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20,
-    }
+  'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
+  {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 20,
+  }
 );
 
 /*
@@ -17,66 +17,53 @@ CZE 	Czech Republic 	48.5518083 	51.0557036 	12.0905901 	18.859216
 */
 
 var map = L.map('map').fitBounds([
-    [46.3722761, 9.5307487],
-    [51.0557036, 18.859216],
+  [46.3722761, 9.5307487],
+  [51.0557036, 18.859216],
 ]);
 CartoDB_PositronNoLabels.addTo(map);
 
-async function fetchAndParseData(url) {
-    try {
-        const response = await fetch(url);
-        const data = await response.text();
-        const rows = data.trim().split('\n');
+async function fetchAndParsTSV(url) {
+  try {
+    const response = await fetch(url);
+    const data = await response.text();
+    const rows = data.trim().split('\n');
 
-        const headers = rows[0].split('\t');
-        const dataArray = [];
+    const headers = rows[0].split('\t');
+    const dataArray = [];
 
-        for (let i = 1; i < rows.length; i++) {
-            const values = rows[i].split('\t');
-            values.push(values.pop().replace('\r', ''));
-            const obj = {};
+    for (let i = 1; i < rows.length; i++) {
+      const values = rows[i].split('\t');
+      values.push(values.pop().replace('\r', ''));
+      const obj = {};
 
-            headers.forEach((header, index) => {
-                obj[header.replace('\r', '')] = values[index];
-            });
-            dataArray.push(obj);
-        }
-        return dataArray;
-    } catch (error) {
-        console.error('Error fetching or parsing TSV:', error);
-        return [];
+      headers.forEach((header, index) => {
+        obj[header] = values[index];
+      });
+      dataArray.push(obj);
     }
+
+    return dataArray;
+  } catch (error) {
+    console.error('Errpr fetching or parsing TSV:', error);
+    return [];
+  }
 }
 
-async function fetchDataAndProcess() {
-    const tsvUrl = 'data/djaw-locations.tsv'; // URL of your TSV file
-    const dataArray = await fetchAndParseData(tsvUrl); // Fetching and parsing the TSV file
-    return dataArray
-}
+fetchAndParsTSV('djaw-map/data/djaw-locations.tsv').then((data) => {
+  for (const i in data) {
+    const row = data[i];
 
-fetchDataAndProcess()
-    .then(data => {
-        // Do something with dataArray here
-        for (var i in data) {
-            var row = data[i];
+    const popup = `<h1>${
+      row.name_modern != '' ? row.name_modern : row.name_historical
+    }</h1>`;
 
-            console.log(row.name_modern);
+    var marker = L.marker([row.lat, row.lon], {
+      opacity: 1,
+    }).bindPopup(popup);
 
-            const customPopup = `<h1>${row.name_modern != '' ? row.name_modern : row.name_historical
-                }</h1>`;
-
-            var marker = L.marker([row.lat, row.lon], {
-                opacity: 1,
-            }).bindPopup(customPopup);
-
-            marker.addTo(map);
-        }
-
-    })
-    .catch(error => {
-        console.error('Error:', error);
-    });
-
+    marker.addTo(map);
+  }
+});
 /*
 window.onload = function () {
     if (localStorage.getItem("hasCodeRunBefore") === null) {
