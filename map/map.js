@@ -48,7 +48,7 @@ async function fetchAndParsTSV(url) {
     return [];
   }
 }
-function createMap() {
+function populateMap() {
   fetchAndParsTSV('map/data/djaw-locations.tsv').then((data) => {
     for (const i in data) {
       const row = data[i];
@@ -66,7 +66,7 @@ function createMap() {
   });
 }
 
-createMap();
+populateMap();
 /*
 window.onload = function () {
     if (localStorage.getItem("hasCodeRunBefore") === null) {
