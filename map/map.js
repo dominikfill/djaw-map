@@ -1,4 +1,5 @@
 import locations from './data/djaw-locations.tsv?url';
+import createPopupHTML from './popup.js';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
@@ -29,6 +30,7 @@ async function fetchAndParsTSV(url) {
     const rows = data.trim().split('\n');
 
     const headers = rows[0].split('\t');
+    headers.push(headers.pop().replace('\r', ''));
     const dataArray = [];
 
     for (let i = 1; i < rows.length; i++) {
@@ -44,7 +46,7 @@ async function fetchAndParsTSV(url) {
 
     return dataArray;
   } catch (error) {
-    console.error('Errpr fetching or parsing TSV:', error);
+    console.error('Error fetching or parsing TSV:', error);
     return [];
   }
 }
@@ -55,9 +57,7 @@ function populateMap() {
     for (const i in data) {
       const row = data[i];
 
-      const popup = `<h1>${
-        row.name_modern != '' ? row.name_modern : row.name_historical
-      }</h1>`;
+      const popup = createPopupHTML(row.name_modern, row.name_historical);
 
       var marker = L.marker([row.lat, row.lon], {
         opacity: 1,
