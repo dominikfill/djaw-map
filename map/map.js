@@ -1,7 +1,7 @@
 import locations from './data/djaw-all-locations.tsv?url';
 import renderPopupContent from './popup/popup.js';
 import fetchAndParsTSV from './fetchData.js';
-import template from './popup/template.html?url';
+import template_url from './popup/template.html?url';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
@@ -25,22 +25,21 @@ var map = L.map('map').fitBounds([
 ]);
 CartoDB_PositronNoLabels.addTo(map);
 
-function populateMap() {
-  fetchAndParsTSV(locations).then((data) => {
-    for (const i in data) {
-      const row = data[i];
-      //console.log(JSON.stringify(row));
+async function populateMap() {
+  const data = await fetchAndParsTSV(locations);
+  const response = await fetch(template_url);
+  const template = await response.text();
 
-      renderPopupContent(template, row).then((popup) => {
-        //console.log(popup);
-        var marker = L.marker([row.lat, row.lon], {
-          opacity: 1,
-        }).bindPopup(popup);
+  const promises = data.map((row) =>
+    renderPopupContent(template, row).then((popup) => {
+      var marker = L.marker([row.lat, row.lon], {
+        opacity: 1,
+      }).bindPopup(popup);
 
-        marker.addTo(map);
-      });
-    }
-  });
+      marker.addTo(map);
+    })
+  );
+  await Promise.all(promises);
 }
 
 populateMap();
