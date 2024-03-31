@@ -1,5 +1,7 @@
-import locations from './data/djaw-locations.tsv?url';
-import createPopupHTML from './popup.js';
+import locations from './data/djaw-all-locations.tsv?url';
+import renderPopupContent from './popup/popup.js';
+import fetchAndParsTSV from './fetchData.js';
+import template from './popup/template.html?url';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
@@ -23,47 +25,20 @@ var map = L.map('map').fitBounds([
 ]);
 CartoDB_PositronNoLabels.addTo(map);
 
-async function fetchAndParsTSV(url) {
-  try {
-    const response = await fetch(url);
-    const data = await response.text();
-    const rows = data.trim().split('\n');
-
-    const headers = rows[0].split('\t');
-    headers.push(headers.pop().replace('\r', ''));
-    const dataArray = [];
-
-    for (let i = 1; i < rows.length; i++) {
-      const values = rows[i].split('\t');
-      values.push(values.pop().replace('\r', ''));
-      const obj = {};
-
-      headers.forEach((header, index) => {
-        obj[header] = values[index];
-      });
-      dataArray.push(obj);
-    }
-
-    return dataArray;
-  } catch (error) {
-    console.error('Error fetching or parsing TSV:', error);
-    return [];
-  }
-}
-
 function populateMap() {
   fetchAndParsTSV(locations).then((data) => {
-    console.log(data);
     for (const i in data) {
       const row = data[i];
+      //console.log(JSON.stringify(row));
 
-      const popup = createPopupHTML(row.name_modern, row.name_historical);
+      renderPopupContent(template, row).then((popup) => {
+        //console.log(popup);
+        var marker = L.marker([row.lat, row.lon], {
+          opacity: 1,
+        }).bindPopup(popup);
 
-      var marker = L.marker([row.lat, row.lon], {
-        opacity: 1,
-      }).bindPopup(popup);
-
-      marker.addTo(map);
+        marker.addTo(map);
+      });
     }
   });
 }

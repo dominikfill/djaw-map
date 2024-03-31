@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        #popup {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        p.placename {
+            font-family: verdana;
+            font-size: 20px;
+            margin: 0;
+        }
+
+        p.placename-is-historical {
+            font-family: verdana;
+            font-size: 15px;
+            font-style: italic;
+            margin-left: 0.5em;
+        }
+
+        aside {
+            display: flex;
+            align-items: baseline;
+        }
+    </style>
+</head>
+
+<body>
+    <div id=popup>
+        <p class="country">{{{country_ISO3}}}</p>
+        <p class="placename"><b>{{{name_modern}}}</b></p>
+        <aside>
+            <p class="placename"><b>{{{name_historical}}}</b></p>
+            <p class="placename-is-historical">hist.</p>
+        </aside>
+        <a href={{{wikipedia}}}>wikipedia</a>
+    </div>
+</body>
+
+</html>
