@@ -5,8 +5,19 @@
     <style>
         #popup {
             display: flex;
+            box-sizing: border-box;
             flex-direction: column;
             align-items: flex-start;
+        }
+
+        a {
+            margin: 0.5em 0 0 0
+        }
+
+        p.country {
+            font-family: verdana;
+            font-size: 15px;
+            margin: 0 0 0.5em 0;
         }
 
         p.placename {
@@ -19,7 +30,7 @@
             font-family: verdana;
             font-size: 15px;
             font-style: italic;
-            margin-left: 0.5em;
+            margin: 0 0 0 0.3em;
         }
 
         aside {
@@ -35,9 +46,11 @@
         <p class="placename"><b>{{{name_modern}}}</b></p>
         <aside>
             <p class="placename"><b>{{{name_historical}}}</b></p>
+            {{#name_modern}}
             <p class="placename-is-historical">hist.</p>
+            {{/name_modern}}
         </aside>
-        <a href={{{wikipedia}}}>wikipedia</a>
+        <a href={{{wikipedia}}} target="_blank">wikipedia</a>
     </div>
 </body>
 
