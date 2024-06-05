@@ -1,434 +1,600 @@
 wikipedia	id_geonames	lat	lon	name_modern	name_historical	country	country_ISO3	region
 https://de.wikipedia.org/wiki/Baku	587084	40.3777	49.8920	Baku	Baku	Azerbaijan	AZE	
+https://de.wikipedia.org/wiki/Banja_Luka	3204541	44.7784	17.1939	Banja Luka	Banja Luka	Bosnia and Herzegovina	BIH	
+https://de.wikipedia.org/wiki/Tuzla	3188582	44.5384	18.6671	Tuzla	Dolna-Tuzla	Bosnia and Herzegovina	BIH	
+https://de.wikipedia.org/wiki/Mostar	3194828	43.3433	17.8081	Mostar	Mostar	Bosnia and Herzegovina	BIH	
+https://de.wikipedia.org/wiki/Sarajevo	3191281	43.8486	18.3564	Sarajevo	Sarajevo	Bosnia and Herzegovina	BIH	
+https://de.wikipedia.org/wiki/Travnik	3188924	44.2264	17.6658	Travnik	Travnik	Bosnia and Herzegovina	BIH	
+https://de.wikipedia.org/wiki/Trebinje	3188893	42.7120	18.3436	Trebinje	Trebinje	Bosnia and Herzegovina	BIH	
 https://de.wikipedia.org/wiki/Warna	726050	43.2167	27.9167	Warna	Varna	Bulgaria	BGR	
 https://de.wikipedia.org/wiki/Sofia	727011	42.6975	23.3242	Sofia	Sofia	Bulgaria	BGR	
 https://de.wikipedia.org/wiki/Russe_(Stadt)	727523	43.8487	25.9534	Ruse / Русе	Rustschuk	Bulgaria	BGR	
-https://de.wikipedia.org/wiki/Tuzla	3188582	44.5384	18.6671	Tuzla	Dolna-Tuzla	Bosnia and Herzegovina	BIH	
-https://de.wikipedia.org/wiki/Trebinje	3188893	42.7120	18.3436	Trebinje	Trebinje	Bosnia and Herzegovina	BIH	
-https://de.wikipedia.org/wiki/Travnik	3188924	44.2264	17.6658	Travnik	Travnik	Bosnia and Herzegovina	BIH	
-https://de.wikipedia.org/wiki/Sarajevo	3191281	43.8486	18.3564	Sarajevo	Sarajevo	Bosnia and Herzegovina	BIH	
-https://de.wikipedia.org/wiki/Mostar	3194828	43.3433	17.8081	Mostar	Mostar	Bosnia and Herzegovina	BIH	
-https://de.wikipedia.org/wiki/Banja_Luka	3204541	44.7784	17.1939	Banja Luka	Banja Luka	Bosnia and Herzegovina	BIH	
+https://de.wikipedia.org/wiki/Opatija	3194099	45.3366	14.3078	Opatija	Abbazia	Croatia	HRV	
+https://de.wikipedia.org/wiki/Zagreb	3186886	45.8144	15.9780	Zagreb	Agram	Croatia	HRV	
+https://de.wikipedia.org/wiki/Bjelovar	3203982	45.8986	16.8489	Bjelovar	Bellovar	Croatia	HRV	
+https://de.wikipedia.org/wiki/Slavonski_Brod	3190586	45.1603	18.0156	Slavonski Brod	Brod	Croatia	HRV	
+https://de.wikipedia.org/wiki/Daruvar	3202184	45.5906	17.2250	Daruvar	Daruvár	Croatia	HRV	
+https://de.wikipedia.org/wiki/%C4%90akovo	3202220	45.3083	18.4106	Đakovo	Djakovar	Croatia	HRV	
+https://de.wikipedia.org/wiki/Osijek	3193935	45.5511	18.6939	Osijek	Essegg	Croatia	HRV	
+https://de.wikipedia.org/wiki/Rijeka	3191648	45.3267	14.4424	Rijeka	Fiume	Croatia	HRV	
+https://de.wikipedia.org/wiki/Karlovac	3345300	45.4917	15.5500	Karlovac	Karlstadt	Croatia	HRV	
+https://de.wikipedia.org/wiki/Lipik	3196534	45.4114	17.1522	Lipik	Lipik	Croatia	HRV	
+https://de.wikipedia.org/wiki/Ludbreg	3196120	46.2519	16.6147	Ludbreg	Lubring	Croatia	HRV	
+https://de.wikipedia.org/wiki/Na%C5%A1ice	3194581	45.4886	18.0878	Našice	Nasice	Croatia	HRV	
+https://de.wikipedia.org/wiki/Pula	3192224	44.8683	13.8481	Pula	Pola	Croatia	HRV	
+https://de.wikipedia.org/wiki/Po%C5%BEega_(Kroatien)	3190589	45.3403	17.6853	Požega	Pozega	Croatia	HRV	
+https://de.wikipedia.org/wiki/Sisak	3190813	45.4661	16.3783	Sisak	Sissek	Croatia	HRV	
+https://de.wikipedia.org/wiki/Vara%C5%BEdin	3188383	46.3044	16.3378	Varaždin	Varasdin	Croatia	HRV	
+https://de.wikipedia.org/wiki/Virovitica	3187694	45.8319	17.3839	Virovitica	Verőce	Croatia	HRV	
+https://de.wikipedia.org/wiki/Vinkovci	3187719	45.2883	18.8047	Vinkovci	Vinkovce	Croatia	HRV	
+https://de.wikipedia.org/wiki/Vukovar	3187047	45.3516	19.0023	Vukovar	Vukovár	Croatia	HRV	
+https://de.wikipedia.org/wiki/Zadar	3186952	44.1158	15.2251	Zadar	Zara	Croatia	HRV	
+https://de.wikipedia.org/wiki/Abertamy	3079843	50.3687	12.8182	Abertamy	Abertham	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Doub%C3%AD_(Karlovy_Vary)	3076565	50.2113	12.8286	Doubí (Karlovy Vary)	Aich	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Dub	3077895	50.6605	14.9962	Český Dub	Böhmisch Aicha	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Albrechtice_v_Jizersk%C3%BDch_hor%C3%A1ch	3079819	50.7601	15.2862	Albrechtice v Jizerských horách	Albrechtsdorf [in Böhmen]	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Star%C3%A9_K%C5%99e%C4%8Dany	3065340	50.9504	14.4962	Staré Křečany	Alt-Ehrenberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Star%C3%A9_Buky	3065368	50.5374	15.8481	Staré Buky	Altenbuch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Star%C3%A1_Role	3065389	50.2462	12.8304	Stará Role	Altrohlau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Star%C3%A9_M%C4%9Bsto_nad_Metuj%C3%AD	3065327	50.3982	16.1581	Staré Město nad Metují	Altstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bujanov	3078456	48.7023	14.4297	Bujanov	Angern	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Josef%C5%AFv_D%C5%AFl_u_Jablonce_nad_Nisou#Gemeindegliederung	3079776	50.7824	15.2312	Antonínov (Josefův Důl u Jablonce nad Nisou)	Antoniwald	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hostinn%C3%A9	3075058	50.5406	15.7233	Hostinné	Arnau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nov%C3%BD_Bor#Stadtgliederung	3069381	50.7576	14.5555	Arnultovice (Nový Bor)	Arnsdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/A%C5%A1	3079751	50.2239	12.195	Aš	Asch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C3%9A%C5%A1t%C4%9Bk	3063556	50.5847	14.3433	Úštěk	Auscha	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hustope%C4%8De	3074677	48.9409	16.7376	Hustopeče	Auspitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem	3063548	50.6607	14.0323	Ústí nad Labem	Außig	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Pernink	3068423	50.3657	12.7837	Pernink	Bärringen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Budi%C5%A1ov_nad_Budi%C5%A1ovkou	3078469	49.7951	17.6297	Budišov nad Budišovkou	Bautsch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bene%C5%A1ov_nad_%C4%8Cernou	3079501	48.7294	14.6274	Benešov nad Černou	Deutsch Beneschau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Horn%C3%AD_Bene%C5%A1ov	3075451	49.9668	17.6026	Horní Benešov	Bennisch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bene%C5%A1ov_nad_Plou%C4%8Dnic%C3%AD	3079500	50.7416	14.3124	Benešov nad Ploučnicí	Bensen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ka%C5%A1persk%C3%A9_Hory	3073769	49.1429	13.5562	Kašperské Hory	Bergreichenstein	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Horn%C3%AD_M%C4%9Bsto	3075296	49.9085	17.2111	Horní Město	Bergstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bernartice_u_Trutnova	3079472	50.6447	15.9658	Bernartice u Trutnova	Bernsdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/B%C3%ADlina	3079348	50.5485	13.7754	Bílina	Bilin	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hor%C5%A1ovsk%C3%BD_T%C3%BDn	3075112	49.5297	12.9441	Horšovský Týn	Bischofteinitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Podmokly_(D%C4%9B%C4%8D%C3%ADn)	3068031	50.7667	14.2000	Podmokly (Děčín)	Bodenbach an der Elbe	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bezd%C4%9Bz	3079407	50.5336	14.7220	Bezděz	Schloßbösig	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Brandov	3078840	50.632	13.3907	Brandov	Brandau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav	3078838	50.1836	14.6724	Brandýs nad Labem-Stará Boleslav	Brandeis an der Elbe-Altbunzlau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Broumov	3078577	50.5857	16.3318	Broumov	Braunau in Böhmen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Brumovice_u_Opavy	3078547	50.0153	17.7496	Brumovice u Opavy	Braunsdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Br%C3%BCnn	3078610	49.1952	16.6080	Brno	Brünn	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/B%C5%99ezov%C3%A1_nad_Svitavou	3078659	49.6442	16.5180	Březová nad Svitavou	Brüsau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Most_(Tschechien)	3070291	50.5030	13.6362	Most	Brüx	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Prun%C3%A9%C5%99ov	3067382	50.4007	13.2780	Prunéřov (Kadaň)	Brunnersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bochov	3079174	50.1487	13.0523	Bochov	Buchau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Budweis	3077916	48.9745	14.4743	České Budějovice	Budweis	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/D%C4%9B%C4%8D%C3%ADn	3078325	50.7833	14.1500	Bynov (Děčín)	Bünauburg bei Bodenbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Sloup_v_%C4%8Cech%C3%A1ch	3065779	50.7401	14.5915	Sloup v Čechách	Bürgstein	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Chy%C5%A1e	3077455	50.1046	13.2491	Chyše	Chiesch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Chodov	3077706	50.2400	12.7455	Chodov	Chodau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Choce%C5%88	3077725	50.0016	16.2230	Choceň	Chotzen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/K%C5%99i%C5%A1%C5%A5anov	3072712	48.9091	14.0200	Křišťanov	Christianberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kry%C5%A1tofovo_%C3%9Adol%C3%AD	3072580	50.7745	14.9334	Kryštofovo Údolí	Christofsgrund	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Dalovice	3077291	50.2478	12.8958	Dalovice	Dallwitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Dub%C3%A1	3076363	50.5403	14.5402	Dubá	Dauba	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jablonn%C3%A9_v_Podje%C5%A1t%C4%9Bd%C3%AD	3074597	50.7653	14.7605	Jablonné v Podještědí	Deutsch-Gabel	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Dob%C5%99any	3077073	49.6548	13.2931	Dobřany	Dobrzan	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Stanovice_u_Karlov%C3%BDch_Var	3065431	50.1651	12.8740	Stanovice u Karlových Var	Donawitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Don%C3%ADn_(Hr%C3%A1dek_nad_Nisou)	3076570	50.8433	14.8560	Donín (Hrádek nad Nisou)	Dönis	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Dolany_u_Klatov	3076961	49.4433	13.2481	Dolany u Klatov	Dolan	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/T%C5%99i_Sekery	3063999	49.9422	12.6166	Tři Sekery	Dreihacken	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Stvol%C3%ADnky	3064770	50.6323	14.4286	Stvolínky	Drum	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Doupov	3076518	50.2593	13.1414	Doupov	Duppau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Duchcov	3076311	50.6030	13.7462	Duchcov	Dux	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Cheb	3077835	50.0796	12.3739	Cheb	Eger	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ivan%C4%8Dice	3074615	49.1014	16.3775	Ivančice	Eibenschütz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Dub%C3%AD	3076346	50.6856	13.7856	Dubí	Eichwald	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C5%BDelezn%C3%A1_Ruda	3061567	49.1374	13.2352	Železná Ruda	Eisenstein	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Loket	3071627	50.1860	12.7541	Loket	Elbogen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Zlat%C3%A9_Hory	3068963	50.2575	17.3488	Ondřejovice (Zlaté Hory)	Endersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/And%C4%9Blsk%C3%A1_Hora_ve_Slezsku	3079795	50.0608	17.3891	Andělská Hora ve Slezsku	Engelsberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/J%C3%ADlov%C3%A9_u_D%C4%9B%C4%8D%C3%ADna	3074181	50.7608	14.1038	Jílové u Děčína	Eulau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Sokolov	3065617	50.1813	12.6401	Sokolov	Falkenau an der Eger	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ryb%C3%A1%C5%99e_(Karlsbad)	3066538	50.2345	12.8520	Rybáře (Karlovy Vary)	Fischern-Karlsbad	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Plesn%C3%A1	3068191	50.2207	12.3467	Plesná	Fleißen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Fl%C3%A1je	3076168	50.6887	13.5842	Fláje (Český Jiřetín)	Fleyh	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vranov_nad_Dyj%C3%AD	3062526	48.8947	15.8127	Vranov nad Dyjí	Frain	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Franti%C5%A1kovy_L%C3%A1zn%C4%9B	3076136	50.1203	12.3517	Františkovy Lázně	Franzensbad	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Svoboda_nad_%C3%9Apou	3064449	50.6260	15.8165	Svoboda nad Úpou	Freiheit an der Aupa	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Karvin%C3%A1	3073789	49.8540	18.5417	Fryštát (Karviná)	Freistadt [in Mähren]	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jesen%C3%ADk	3074281	50.2294	17.2046	Jeseník	(Bad) Freiwaldau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Brunt%C3%A1l	3078545	49.9884	17.4647	Bruntál	Freudenthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C5%BDulov%C3%A1	3061321	50.3093	17.0987	Žulová	Friedeberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Fr%C3%BDdek-M%C3%ADstek#Fr%C3%BDdek_(Friedeck)	3076127	49.6833	18.3500	Frýdek-Místek	Friedek	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Fr%C3%BDdlant_v_%C4%8Cech%C3%A1ch	3076124	50.9214	15.0797	Frýdlant v Čechách	Friedland in Böhmen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/B%C5%99idli%C4%8Dn%C3%A1	3078648	49.9117	17.3711	Břidličná	Friedland in Mähren	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/P%C5%99ebuz	3067653	50.3658	12.6201	Přebuz	Frühbuß	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jablonn%C3%A9_v_Podje%C5%A1t%C4%9Bd%C3%AD	3074597	50.7653	14.7605	Jablonné v Podještědí	Deutsch Gabel	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jablonec_nad_Nisou	3074603	50.7243	15.1711	Jablonec nad Nisou	Gablonz an der Neiße	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kyjov	3072407	49.0102	17.1225	Kyjov	Gaya	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nov%C3%A1_Ves_v_Hor%C3%A1ch	3069551	50.5947	13.4824	Nová Ves v Horách	Gebirgsneudorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Ji%C5%99et%C3%ADn	3077891	50.7075	13.5474	Český Jiřetín	Georgendorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ji%C5%99et%C3%ADn_pod_Jedlovou	3074133	50.8745	14.5751	Jiřetín pod Jedlovou	Sankt Georgenthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ji%C5%99%C3%ADkov	3074119	50.9951	14.5691	Jiříkov	Georgswalde	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice	3073723	50.7668	14.4035	Kerhartice (Česká Kamenice)	Gersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Krsy	3072628	49.9262	13.0550	Krsy	Girsch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hodon%C3%ADn	3075654	48.8489	17.1324	Hodonín	Göding	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jirkov	3074110	50.4998	13.4477	Jirkov	Görkau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bolebo%C5%99	3079077	50.5402	13.4133	Boleboř	Göttersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Krajkov%C3%A1	3072966	50.2160	12.5341	Krajková	Gossengrün	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Krava%C5%99e_v_%C4%8Cech%C3%A1ch	3072840	50.6324	14.3924	Kravaře v Čechách	Graber	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jesen%C3%ADk	3072267	50.2416	17.1881	Lázně Jeseník (Jeseník)	Bad Gräfenberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kraslice	3072903	50.3237	12.5175	Kraslice	Graslitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nov%C3%A9_Hrady	3069493	48.7896	14.7784	Nové Hrady	Gratzen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Krupka	3072598	50.6845	13.8582	Krupka	Graupen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Velk%C3%A1_%C3%9Apa	3063225	50.6898	15.7691	Velká Úpa	Groß-Aupa	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Velk%C3%A9_Heraltice	3063208	49.9749	17.7288	Velké Heraltice	Groß-Herrlitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ma%C5%99enice	3071032	50.8074	14.6785	Mařenice	Großmergthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C5%BDidlochovice	3061472	49.0395	16.6188	Židlochovice	Groß-Seelowitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Velk%C3%A9_Losiny	3063197	50.0320	17.0406	Velké Losiny	Groß-Ullersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Velk%C3%A1_Ves_(Broumov)	3063221	50.5871	16.3396	Velká Ves (Broumov)	Großdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Velk%C3%A9_B%C5%99ezno	3063215	50.6627	14.1417	Velké Březno	Großpriesen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hr%C3%A1dek_nad_Nisou	3074944	50.8528	14.8446	Hrádek nad Nisou	Grottau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Brandov	3078840	50.6464	13.3754	Zelený Důl (Brandov)	Böhmisch Grünthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/M%C5%A1eno_nad_Nisou	3070222	50.7430	15.1694	Mšeno nad Nisou (Jablonec nad Nisou)	Grünwald an der Neiße	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kr%C3%A1l%C3%ADky	3072952	50.0838	16.7605	Králíky	Grulich	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hru%C5%A1ovany_nad_Jevi%C5%A1ovkou	3074764	48.8299	16.4027	Hrušovany nad Jevišovkou	Grusbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Skoro%C5%A1ice	3065986	50.3086	17.0806	Skorošice	Gurschdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/H%C3%A1j_u_Duchcova	3076002	50.6308	13.7126	Háj u Duchcova	Haan	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Habartov	3076076	50.1830	12.5505	Habartov	Habersbirk	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bor_u_Tachova	3079038	49.7116	12.7752	Bor u Tachova	Haid	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nov%C3%BD_Bor	3069381	50.7576	14.5556	Nový Bor	Haida	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hejnice	3075894	50.8772	15.1817	Hejnice	Haindorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lipov%C3%A1_u_%C5%A0luknova	3071773	51.0110	14.3602	Lipová u Šluknova	Hainspach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Mezim%C4%9Bst%C3%AD	3070774	50.6246	16.2421	Meziměstí	Halbstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hanu%C5%A1ovice	3075958	50.0805	16.9364	Hanušovice	Hannsdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hartmanice	3075949	49.1695	13.4546	Hartmanice	Hartmanitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hazlov	3075905	50.1563	12.2724	Hazlov	Haslau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Havra%C5%88	3075910	50.4500	13.5988	Havraň	Hawran	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hojn%C3%A1_Voda	3075632	48.7290	14.7275	Hojná Voda (Horní Stropnice)	Heilbrunn	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jind%C5%99ichovice	3074154	50.2827	12.6023	Jindřichovice	Heinrichsgrün	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/He%C5%99manova_Hu%C5%A5	3075843	49.7068	13.1007	Heřmanova Huť	Hermannshütte	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/H%C5%99ensko	3074841	50.8744	14.2425	Hřensko	Herrnskretschen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Severn%C3%AD	3066163	51.0353	14.3132	Severní (Lobendava)	Hilgersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Doksy	3076972	50.5647	14.6555	Doksy	Hirschberg am See	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ho%C5%99ice_na_%C5%A0umav%C4%9B	3075492	48.7659	14.1784	Hořice na Šumavě	Höritz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Dvorce_u_Brunt%C3%A1lu	3076284	49.8333	17.5476	Dvorce u Bruntálu	Hof [in Mähren]	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vrchlab%C3%AD	3062439	50.6270	15.6094	Vrchlabí	Hohenelbe	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vysok%C3%A9_M%C3%BDto	3062214	49.9532	16.1617	Vysoké Mýto	Hohenmauth	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Z%C3%A1b%C5%99eh	3062111	49.8826	16.8722	Zábřeh	Hohenstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Krupka	3063608	50.6878	13.8969	Unčín (Krupka)	Hohenstein	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hole%C5%A1ov	3075606	49.3333	17.5783	Holešov	Holleschau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hole%C5%A1ovice	3075605	50.1047	14.4495	Holešovice (Praha)	Holleschowitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hostou%C5%88	3075042	49.5597	12.7715	Hostouň	Hostau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Uhersk%C3%A9_Hradi%C5%A1t%C4%9B	3063739	49.0698	17.4597	Uherské Hradiště	Ungarisch Hradisch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Teplice	3074740	50.6271	13.7827	Hudcov (Teplice)	Hundorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Pr%C3%A1%C5%A1ily	3065410	49.1287	13.3316	Stará Hůrka [Abandoned] (Prášily)	Hurkenthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jihlava	3074199	49.3961	15.5912	Jihlava	Iglau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Krnov	3072656	50.0897	17.7039	Krnov	Jägerndorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jarom%C4%9B%C5%99	3074462	50.3562	15.9214	Jaroměř	Jaromir	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Javorn%C3%ADk	3074398	50.3908	17.0027	Javorník	Jauernig	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jesenice_u_Rakovn%C3%ADka	3074284	50.0970	13.4695	Jesenice u Rakovníka	Jechnitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ji%C4%8D%C3%ADn	3074204	50.4372	15.3516	Jičín	Jitschin	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/J%C3%A1chymov	3074587	50.3585	12.9347	Jáchymov	Sankt Joachimsthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Janov_nad_Nisou	3074482	50.7720	15.1691	Janov nad Nisou	Johannesberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jan%C5%AFv_D%C5%AFl	3074471	50.7045	14.9403	Janův Důl	Johannesthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jansk%C3%A9_L%C3%A1zn%C4%9B	3074479	50.6311	15.7818	Janské Lázně	Johannisbad	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Josefov_(Jarom%C4%9B%C5%99)	3074059	50.3391	15.9302	Josefov (Jaroměř)	Josefstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Josef%C5%AFv_D%C5%AFl_u_Jablonce_nad_Nisou	3074049	50.7819	15.2315	Josefův Důl u Jablonce nad Nisou	Josefsthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Mlad%C3%A1_Boleslav	3070544	50.4114	14.9032	Mladá Boleslav	Jungbunzlau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kada%C5%88	3074020	50.3833	13.2667	Kadaň	Kaaden	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Chval%C5%A1iny	3077478	48.8540	14.2111	Chvalšiny	Kalsching	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice	3077932	50.7978	14.4177	Česká Kamenice	Böhmisch Kamnitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kaplice	3073862	48.7388	14.4945	Kaplice	Kaplitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Chaba%C5%99ovice	3077862	50.6732	13.9418	Chabařovice	Karbitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Karlsbad	3073803	50.2327	12.8712	Karlovy Vary	Karlsbad	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Karlova_Stud%C3%A1nka	3073817	50.0731	17.3069	Karlova Studánka	Bad Karlsbrunn	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Karlovice_ve_Slezsku	3073811	50.1056	17.4456	Karlovice ve Slezsku	Karlsthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kl%C3%A1%C5%A1terec_nad_Oh%C5%99%C3%AD	3073668	50.3886	13.1834	Klášterec nad Ohří	Klösterle an der Eger	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hrob	3074817	50.6592	13.7268	Hrob	Klostergrab	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Dv%C5%AFr_Kr%C3%A1lov%C3%A9_nad_Labem	3061284	50.4317	15.8141	Dvůr Králové nad Labem	Königinhof	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kyn%C5%A1perk_nad_Oh%C5%99%C3%AD	3072394	50.1189	12.5303	Kynšperk nad Ohří	Königsberg an der Eger	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kole%C5%A1ovice	3073373	50.1396	13.6103	Kolešovice	Kolleschowitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Chomutov	3077685	50.4605	13.4178	Chomutov	Komotau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Li%C5%A1nice	3073258	50.4432	13.6282	Koporeč (Lišnice)	Koppertsch	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kostomlaty_pod_Mile%C5%A1ovkou	3073124	50.5601	13.8731	Kostomlaty pod Milešovkou	Kostenblatt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Chrastava	3077584	50.8169	14.9688	Chrastava	Kratzau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ch%C5%99ibsk%C3%A1	3077558	50.8608	14.4844	Chřibská	Kreibitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kryry	3072581	50.1744	13.4266	Kryry	Kriegern	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Podmokly_(D%C4%9B%C4%8D%C3%ADn)	3077551	50.7555	14.1834	Chrochvice/Podmokly (Děčín)	Krochwitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov	3077889	48.8109	14.3152	Český Krumlov	Krumau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ledvice	3072230	50.5850	13.772	Ledvice	Ladowitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lan%C5%A1kroun	3072332	49.9122	16.6119	Lanškroun	Landskron	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Skalice_u_%C4%8Cesk%C3%A9_L%C3%ADpy	3066072	50.7478	14.5298	Skalice u České Lípy	Langenau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C4%8Cesk%C3%A1_L%C3%ADpa	3077929	50.6855	14.5376	Česká Lípa	Böhmisch Leipa	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Litom%C4%9B%C5%99ice	3071677	50.5335	14.1318	Litoměřice	Leitmeritz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lichnov_u_Brunt%C3%A1lu	3071874	50.0079	17.6264	Lichnov u Bruntálu	Lichten	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hrozn%C4%9Bt%C3%ADn	3074797	50.3094	12.8718	Hroznětín	Lichtenstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Libina	3075319	49.8899	17.0726	Horní Libina	Deutsch-Liebau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lipov%C3%A1-l%C3%A1zn%C4%9B	6695745	50.2277	17.1404	Lipová-lázně	Lindewiese	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lobendava	3071657	51.0195	14.3142	Lobendava	Lobendau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lovosice	3071480	50.515	14.051	Lovosice	Lobositz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lubenec	3071467	50.1321	13.3132	Lubenec	Lubenz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Luka_(Veru%C5%A1i%C4%8Dky)	3071392	50.1559	13.1506	Luka (Verušičky)	Luck	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vratislavice_nad_Nisou	3062496	50.7438	15.0958	Vratislavice nad Nisou (Liberec)	Maffersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Chlum_Svat%C3%A9_Ma%C5%99%C3%AD	3077742	50.1498	12.5357	Chlum Svaté Maří	Maria Kulm	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bohosudov	3079143	50.6842	13.8767	Bohosudov (Krupka)	Mariaschein	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Marienbad	3071024	49.9646	12.7019	Mariánské Lázně	Marienbad	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ma%C5%A1%C5%A5ov	3070930	50.2623	13.2805	Mašťov	Maschau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/M%C4%9Bln%C3%ADk	3070862	50.3505	14.4741	Mělník	Melnik	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/St%C5%99%C3%ADbro	3064919	49.7557	12.9970	Stříbro	Mies	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/M%C4%9Bcholupy_u_%C5%BDatce	3070906	50.2667	13.5374	Měcholupy u Žatce	Michelob	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Miroslav_(Stadt)	3070593	48.9477	16.3125	Miroslav	Mißlitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Fr%C3%BDdek-M%C3%ADstek#Fr%C3%BDdek_(Friedeck)	3070559	49.6667	18.3333	Frýdek-Místek	Mistek	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Smr%C5%BEovka	3065684	50.7382	15.2464	Smržovka	Morchenstern	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Mohelnice	3070409	49.7770	16.9195	Mohelnice	Müglitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/N%C3%A1chod	3070122	50.4167	16.1629	Náchod	Nachod	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Povrly	3069825	50.6713	14.1391	Neštědice (Povrly)	Nestersitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Pn%C4%9Btluky	3068156	50.2503	13.7038	Pnětluky	Netluk	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ne%C4%8Dtiny	3069969	49.9748	13.1646	Nečtiny	Netschetin	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nejdek	3069934	50.3224	12.7294	Nejdek	Neudek	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nov%C3%A9_Zvol%C3%A1n%C3%AD	11922443	50.4688	13.0272	Nové Zvolání (Vejprty)	Neugeschrei	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Jind%C5%99ich%C5%AFv_Hradec	3074149	49.1440	15.0030	Jindřichův Hradec	Neuhaus	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Uni%C4%8Dov	3063596	49.7709	17.1214	Uničov	Mährisch-Neustadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nov%C3%A9_M%C4%9Bsto_nad_Metuj%C3%AD	3069466	50.3446	16.1515	Nové Město nad Metují	Neustadt an der Mettau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Nov%C3%A9_M%C4%9Bsto_pod_Smrkem	3069464	50.9249	15.2294	Nové Město pod Smrkem	Neustadtl	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Str%C3%A1%C5%BE_u_Tachova	3065018	49.6688	12.7755	Stráž u Tachova	Neustadtl [bei Haid]	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Doln%C3%AD_Podlu%C5%BE%C3%AD	3076734	50.8799	14.5950	Dolní Podluží	Niedergrund	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Mimo%C5%88	3070622	50.6587	14.7247	Mimoň	Niemes	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Mikul%C3%A1%C5%A1ovice	3070725	50.9651	14.3637	Mikulášovice	Nixdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Horn%C3%AD_Litv%C3%ADnov	3071665	50.6042	13.6181	Horní Litvínov	Oberleutensdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Horn%C3%AD_Plan%C3%A1	3075262	48.7674	14.0326	Horní Planá	Oberplan	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bohum%C3%ADn	3065281	49.9169	18.3362	Bohumín	Oderberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/M%C4%9Bsto_Albrechtice	3070819	50.1629	17.5748	Město Albrechtice	Olbersdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Osek	3068857	50.6212	13.6927	Osek	Ossegg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Ostrava	3068799	49.8347	18.2820	Ostrava	Mährisch Ostrau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Petrovice_u_Chaba%C5%99ovic	3068350	50.7890	13.9761	Petrovice u Chabařovic	Peterswald	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Be%C4%8Dov_nad_Teplou	3079609	50.0835	12.8383	Bečov nad Teplou	Petschau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/P%C3%ADsek	3068293	49.3088	14.1475	Písek	Pisek	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Plan%C3%A1_u_Mari%C3%A1nsk%C3%BDch_L%C3%A1zn%C3%AD	3068246	49.8682	12.7438	Planá u Mariánských Lázní	Plan	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Blatno	3079241	50.5117	13.3581	Blatno	Platten	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Poho%C5%99elice	3067953	48.9812	16.5245	Pohořelice	Pohrlitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem	3078445	50.6812	14.0103	Bukov (Ústí nad Labem)	Pokau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Poli%C4%8Dka	3067882	49.7147	16.2654	Polička	Politschka	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Postoloprty	3067770	50.3598	13.7029	Postoloprty	Postelberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Prachatice	3067713	49.0129	13.9975	Prachatice	Prachatitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/P%C5%99%C3%ADse%C4%8Dnice	3067495	50.4667	13.1333	Přísečnice [Abandoned] (Kryštofovy Hamry)	Preßnitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/B%C5%99ezno_u_Chomutova	3078675	50.4019	13.4212	Březno u Chomutova	Priesen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Prost%C4%9Bjov	3067421	49.4719	17.1118	Prostějov	Proßnitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Radonice_u_Kadan%C4%9B	3067157	50.2980	13.2846	Radonice u Kadaně	Radonitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Raspenava	3067006	50.9042	15.1147	Raspenava	Raspenau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Liberec	3071961	50.7671	15.0562	Liberec	Reichenberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Z%C3%A1kupy	3061949	50.6848	14.6452	Zákupy	Reichstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/V%C4%9Btrov_(Fr%C3%BDdlant)	3062975	50.9076	15.0707	Větrov (Frýdlant v Čechách)	Ringenhain [bei Freidland in Böhmen]	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Rokytnice_nad_Jizerou	3066783	50.7256	15.4336	Rokytnice nad Jizerou	Rochlitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lipov%C3%A1_u_%C5%A0luknova	3071755	51.0336	14.3553	Liščí (Lipová u Šluknova)	Röhrsdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/R%C3%BDma%C5%99ov	3066483	49.9318	17.2718	Rýmařov	Römerstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hranice_u_A%C5%A1e	3074889	50.3046	12.1758	Hranice u Aše	Roßbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/R%C5%AF%C5%BEov%C3%A1	3066552	50.8422	14.2938	Růžová	Rosendorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vroutek	3062405	50.1800	13.3799	Vroutek	Rudig	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Rumburk	3066578	50.9515	14.557	Rumburk	Rumburg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C5%BDatec	3061822	50.3272	13.5458	Žatec	Saaz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C5%BDandov	3061867	50.7139	14.3962	Žandov	Sandau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Prameny	3067688	50.0501	12.7328	Prameny	Sangerberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Slatina_(Franti%C5%A1kovy_L%C3%A1zn%C4%9B)	3065880	50.1133	12.3520	Slatina (Františkovy Lázně)	Schlada	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Luby	3071448	50.2525	12.4060	Luby	Schönbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C5%A0umperk	3064673	49.9653	16.9706	Šumperk	Mährisch Schönberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kr%C3%A1sn%C3%A1_L%C3%ADpa	3072889	50.9130	14.5100	Krásná Lípa	Schönlinde	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Bublava	3078524	50.3744	12.5052	Bublava	Schwaderbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Sm%C3%ADchov	3065743	50.072	14.4042	Smíchov (Praha)	Smichow	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/V%C3%BDslun%C3%AD	3062271	50.4665	13.2374	Výsluní	Sonnenberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Stod	3065116	49.6391	13.1647	Stod	Staab	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Kamenick%C3%BD_%C5%A0enov	3073928	50.7736	14.4729	Kamenický Šenov	Steinschönau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Horn%C3%AD_Stropnice	3075191	48.7612	14.7350	Horní Stropnice	Strobnitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Pr%C3%A1%C5%A1ily	3067683	49.1051	13.3779	Prášily	Stubenbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Tachov	3064373	49.7953	12.6337	Tachov	Tachau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/T%C3%A1bor	3064379	49.4144	14.6578	Tábor	Tabor	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Tanvald	3064358	50.7374	15.3059	Tanvald	Tannwald	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Tepl%C3%A1	3070820	49.971	12.8643	Teplá	Tepl	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/D%C4%9B%C4%8D%C3%ADn	3077244	50.7822	14.2148	Děčín	Tetschen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Terez%C3%ADn	3064268	50.511	14.1506	Terezín	Theresienstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Tou%C5%BEim	3064145	50.0605	12.9851	Toužim	Theusing	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/T%C4%9Bchlovice_nad_Labem	3064331	50.6963	14.2049	Těchlovice nad Labem	Tichlowitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Desn%C3%A1	3077198	50.7564	15.317	Potočná (Desná)	Tiefenbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Trutnov	3063907	50.5610	15.9127	Trutnov	Trautenau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/%C4%8Cerno%C5%A1%C3%ADn	3078028	49.8161	12.8838	Černošín	Tschernoschin	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Trmice	3063987	50.6429	13.9945	Trmice	Türmitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Trnovany_(Teplice)	3063962	50.6524	13.8536	Trnovany (Teplice)	Turn	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Tis%C3%A1	3064217	50.7845	14.0313	Tisá	Tyssa	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/B%C3%ADlovec	3079336	49.7564	18.0158	Bílovec	Wagstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Varnsdorf	3063375	50.9115	14.6182	Varnsdorf	Warnsdorf	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Volary	3062593	48.9088	13.8866	Volary	Wallern	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vidnava	3062924	50.3723	17.1863	Vidnava	Weidenau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vejprty	3063333	50.4923	13.0321	Vejprty	Weipert	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/B%C3%ADl%C3%BD_Potok_pod_Smrkem	3079319	50.8737	15.2221	Bílý Potok pod Smrkem	Weißbach	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Hranice_na_Morav%C4%9B	3074893	49.548	17.7347	Hranice na Moravě	Mährisch Weißkirchen	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Velichov	3063296	50.2841	13.0097	Velichov	Welchau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Velem%C3%ADn	3063318	50.539	13.9768	Velemín	Wellemin	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Verne%C5%99ice	3063091	50.6611	14.3011	Verneřice	Wernstadt	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Lu%C4%8Dany_nad_Nisou	3071447	50.7413	15.2205	Lučany nad Nisou	Wiesenthal an der Neiße	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vil%C3%A9mov	3062898	50.3010	13.3120	Vilémov	Willomitz	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vimperk	3062888	49.0586	13.7829	Vimperk	Winterberg	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vy%C5%A1kov	3062283	49.2775	16.9990	Vyškov	Wischau	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Vrbno_pod_Prad%C4%9Bdem	3062446	50.1210	17.3832	Vrbno pod Pradědem	Würbenthal	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Suchdol_nad_Odrou	8468645	49.6571	17.9270	Suchdol nad Odrou	Zauchtel	Czech Republic	CZE	
+https://en.wikipedia.org/wiki/Slavonice	3065818	48.9975	15.3515	Slavonice	Zlabings	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Znojmo	3061344	48.8555	16.0488	Znojmo	Znaim	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Zlat%C3%A9_Hory	3061393	50.2638	17.3960	Zlaté Hory	Zuckmantel	Czech Republic	CZE	
+https://de.wikipedia.org/wiki/Svitavy	3064454	49.7559	16.4683	Svitavy	Zwittau	Czech Republic	CZE	
 https://de.wikipedia.org/wiki/Tiflis	611717	41.6941	44.8337	Tbilisi	Tiflis	Georgia	GEO	
 https://de.wikipedia.org/wiki/Batumi	615532	41.6423	41.6339	Batumi	Batum	Georgia	GEO	
 https://de.wikipedia.org/wiki/Athen	264371	37.9838	23.7278	Athen	Athen	Greece	GRC	
-https://de.wikipedia.org/wiki/Zagreb	3186886	45.8144	15.9780	Zagreb	Agram	Croatia	HRV	
-https://de.wikipedia.org/wiki/Zadar	3186952	44.1158	15.2251	Zadar	Zara	Croatia	HRV	
-https://de.wikipedia.org/wiki/Vukovar	3187047	45.3516	19.0023	Vukovar	Vukovár	Croatia	HRV	
-https://de.wikipedia.org/wiki/Virovitica	3187694	45.8319	17.3839	Virovitica	Verőce	Croatia	HRV	
-https://de.wikipedia.org/wiki/Vinkovci	3187719	45.2883	18.8047	Vinkovci	Vinkovce	Croatia	HRV	
-https://de.wikipedia.org/wiki/Vara%C5%BEdin	3188383	46.3044	16.3378	Varaždin	Varasdin	Croatia	HRV	
-https://de.wikipedia.org/wiki/Slavonski_Brod	3190586	45.1603	18.0156	Slavonski Brod	Brod	Croatia	HRV	
-https://de.wikipedia.org/wiki/Sisak	3190813	45.4661	16.3783	Sisak	Sissek	Croatia	HRV	
-https://de.wikipedia.org/wiki/Rijeka	3191648	45.3267	14.4424	Rijeka	Fiume	Croatia	HRV	
-https://de.wikipedia.org/wiki/Pula	3192224	44.8683	13.8481	Pula	Pola	Croatia	HRV	
-https://de.wikipedia.org/wiki/Po%C5%BEega_(Kroatien)	3190589	45.3403	17.6853	Požega	Pozega	Croatia	HRV	
-https://de.wikipedia.org/wiki/Osijek	3193935	45.5511	18.6939	Osijek	Essegg	Croatia	HRV	
-https://de.wikipedia.org/wiki/Opatija	3194099	45.3366	14.3078	Opatija	Abbazia	Croatia	HRV	
-https://de.wikipedia.org/wiki/Na%C5%A1ice	3194581	45.4886	18.0878	Našice	Nasice	Croatia	HRV	
-https://de.wikipedia.org/wiki/Ludbreg	3196120	46.2519	16.6147	Ludbreg	Lubring	Croatia	HRV	
-https://de.wikipedia.org/wiki/Lipik	3196534	45.4114	17.1522	Lipik	Lipik	Croatia	HRV	
-https://de.wikipedia.org/wiki/Karlovac	3345300	45.4917	15.5500	Karlovac	Karlstadt	Croatia	HRV	
-https://de.wikipedia.org/wiki/Daruvar	3202184	45.5906	17.2250	Daruvar	Daruvár	Croatia	HRV	
-https://de.wikipedia.org/wiki/%C4%90akovo	3202220	45.3083	18.4106	Đakovo	Djakovar	Croatia	HRV	
-https://de.wikipedia.org/wiki/Bjelovar	3203982	45.8986	16.8489	Bjelovar	Bellovar	Croatia	HRV	
-https://de.wikipedia.org/wiki/Vatra_Dornei	663100	47.3500	25.3667	Vatra Dornei	Dorna Watra	Romania	ROU	
-https://de.wikipedia.org/wiki/Timișoara	665087	45.7537	21.2257	Timişoara	Temeswar	Romania	ROU	
-https://de.wikipedia.org/wiki/Teremia_Mare	665231	45.9353	20.5250	Teremia Mare	Marienfeld	Romania	ROU	
-https://de.wikipedia.org/wiki/Târgu_Mureș	665004	46.5424	24.5575	Târgu Mures	Neumarkt am Mieresch	Romania	ROU	
-https://de.wikipedia.org/wiki/Reghin	668997	46.7742	24.7022	Szászrégen	Reghin	Romania	ROU	
-https://de.wikipedia.org/wiki/Sighișoara	8436351	46.2214	24.7928	Sighişoara	Schäßburg	Romania	ROU	
-https://de.wikipedia.org/wiki/Hermannstadt	667268	45.8000	24.1500	Sibiu	Hermannstadt	Romania	ROU	
-https://de.wikipedia.org/wiki/Sânnicolau_Mare	666973	46.0833	20.6333	Sânnicolau Mare	St. Miklosch	Romania	ROU	
-https://de.wikipedia.org/wiki/Rupea	668442	46.0333	25.2167	Rupea	Reps	Romania	ROU	
-https://de.wikipedia.org/wiki/Râmnicu_Sărat	668873	45.3833	27.0500	Râmnicu Sarat	Rimnikul-Sarat	Romania	ROU	
-https://de.wikipedia.org/wiki/Orșova	671681	44.7230	22.3962	Orşova	Orsova	Romania	ROU	
-https://de.wikipedia.org/wiki/Oravița	671746	45.0325	21.6894	Oraviţa	Oravitza	Romania	ROU	
-https://de.wikipedia.org/wiki/Or%C4%83%C8%99tie	671757	45.8333	23.2000	Orăștie	Broos	Romania	ROU	
-https://de.wikipedia.org/wiki/Oradea	671768	47.0458	21.9183	Oradea	Großwardein	Romania	ROU	
-https://de.wikipedia.org/wiki/Mehadia	673619	44.9008	22.3669	Mehadia	(Bad) Mehadia	Romania	ROU	
-https://de.wikipedia.org/wiki/Mediaș	673634	46.1667	24.3500	Mediaş	Mediasch	Romania	ROU	
-https://de.wikipedia.org/wiki/Lugoj	674531	45.6886	21.9031	Lugoj	Lugos	Romania	ROU	
-https://de.wikipedia.org/wiki/Lipova_(Arad)	674733	46.0908	21.6963	Lipova	Lippa	Romania	ROU	
-https://de.wikipedia.org/wiki/Jimbolia	675223	45.7914	20.7172	Jimbolia	Hatzfeld	Romania	ROU	
-https://de.wikipedia.org/wiki/Iași	675810	47.1667	27.6000	Iaşi	Jassy	Romania	ROU	
-https://de.wikipedia.org/wiki/Giurgiu	677106	43.8866	25.9627	Giurgiu	Giurgiu	Romania	ROU	
-https://de.wikipedia.org/wiki/Galați	677697	45.4369	28.0503	Galați	Galatz	Romania	ROU	
-https://de.wikipedia.org/wiki/Focșani	678015	45.7000	27.1833	Focșani	Focsani	Romania	ROU	
-https://de.wikipedia.org/wiki/Drobeta_Turnu_Severin	678817	44.6269	22.6529	Drobeta-Turno Severin	Turn-Severin	Romania	ROU	
-https://de.wikipedia.org/wiki/Detta_(Kreis_Timiș)	679456	45.3889	21.2244	Deta	Detta	Romania	ROU	
-https://de.wikipedia.org/wiki/Craiova	680332	44.3167	23.8000	Craiova	Craiova	Romania	ROU	
-https://de.wikipedia.org/wiki/Constanța	680963	44.1807	28.6343	Constanța	Konstanza	Romania	ROU	
-https://de.wikipedia.org/wiki/Comloșu_Mare	680992	45.8906	20.6272	Comloş	Komlosch	Romania	ROU	
-https://de.wikipedia.org/wiki/Cluj-Napoca	681290	46.7667	23.6000	Cluj-Napoca	Klausenburg	Romania	ROU	
-https://de.wikipedia.org/wiki/Cernavod%C4%83	682321	44.3396	28.0327	Cernavodă	Cernavoda	Romania	ROU	
-https://de.wikipedia.org/wiki/Caransebe%C8%99	682729	45.4167	22.2167	Caransebeș	Karansebesch	Romania	ROU	
-https://de.wikipedia.org/wiki/Buz%C4%83u	683123	45.1500	26.8333	Buzău	Buzau	Romania	ROU	
-https://de.wikipedia.org/wiki/Bukarest	683506	44.4323	26.1063	București	Bukarest	Romania	ROU	
-https://de.wikipedia.org/wiki/Orăștie	671757	45.8333	23.2000	Broos	Orăştie	Romania	ROU	
-https://de.wikipedia.org/wiki/Bra%C8%99ov	683844	45.6486	25.6061	Braşov	Kronstadt	Romania	ROU	
-https://de.wikipedia.org/wiki/Br%C4%83ila	683902	45.2715	27.9743	Brăila	Braila	Romania	ROU	
-https://de.wikipedia.org/wiki/Boc%C8%99a	684490	45.3733	21.7092	Bocșa	Bokschan	Romania	ROU	
-https://de.wikipedia.org/wiki/Bistri%C8%9Ba	684657	47.1332	24.5001	Bistrița	Bistritz	Romania	ROU	
-https://de.wikipedia.org/wiki/Băile_Herculane	685796	44.8797	22.4125	Băile Herculane	Herculesbad	Romania	ROU	
-https://de.wikipedia.org/wiki/Baia_Mare	685826	47.6573	23.5681	Baia Mare	Groß-Neustadt	Romania	ROU	
-https://de.wikipedia.org/wiki/Aradul_Nou	686250	46.1468	21.3243	Aradul Nou (Arad)	Neu-Arad	Romania	ROU	
-https://de.wikipedia.org/wiki/Arad_(Rum%C3%A4nien)	686254	46.1833	21.3167	Arad	Arad	Romania	ROU	
 https://de.wikipedia.org/wiki/Alba_Iulia	686578	46.0667	23.5833	Alba Iulia	Karlsburg	Romania	ROU	
-https://de.wikipedia.org/wiki/Zrenjanin	783814	45.3836	20.3819	Zrenjanin	Nagybecskerek	Serbia	SRB	
-https://de.wikipedia.org/wiki/Zemun	783920	44.8458	20.4012	Zemun (Belgrad)	Semlin	Serbia	SRB	
-https://de.wikipedia.org/wiki/Vr%C5%A1ac	784136	45.1167	21.3036	Vršac	Werschetz	Serbia	SRB	
-https://de.wikipedia.org/wiki/Titel_(Stadt)	785062	45.2061	20.2944	Titel	Titel	Serbia	SRB	
-https://de.wikipedia.org/wiki/Temerin	3189166	45.4086	19.8892	Temerin	Temerin	Serbia	SRB	
-https://de.wikipedia.org/wiki/Subotica	3189595	46.1000	19.6667	Subotica	Maria-Theresiopel	Serbia	SRB	
-https://de.wikipedia.org/wiki/Srpski_Itebej	785600	45.5672	20.7135	Srpski Itebej	Ittebe	Serbia	SRB	
-https://de.wikipedia.org/wiki/Sremska_Mitrovica	3190103	44.9764	19.6122	Sremska Mitrovica	Mitrowitz	Serbia	SRB	
-https://de.wikipedia.org/wiki/Sombor	3190342	45.7742	19.1122	Sombor	Zombor	Serbia	SRB	
-https://de.wikipedia.org/wiki/Petrovaradin	3193406	45.2467	19.8794	Petrovaradin	Peterwardein	Serbia	SRB	
-https://de.wikipedia.org/wiki/Pan%C4%8Devo	787237	44.8718	20.6417	Pančevo	Pancsova	Serbia	SRB	
-https://en.wikipedia.org/wiki/Opovo	787461	45.0522	20.4303	Opovo	Oppova	Serbia	SRB	
-https://de.wikipedia.org/wiki/Od%C5%BEaci	3194209	45.5067	19.2611	Odžaci	Hódság	Serbia	SRB	
-https://de.wikipedia.org/wiki/Novi_Sad	3194360	45.2517	19.8369	Novi Sad	Neusatz	Serbia	SRB	
-https://de.wikipedia.org/wiki/Kni%C4%87anin	789415	45.1867	20.3190	Knićanin	Rudolfsgnad	Serbia	SRB	
-https://de.wikipedia.org/wiki/Kikinda	789518	45.8297	20.4653	Kikinda	Großkikinda	Serbia	SRB	
-https://de.wikipedia.org/wiki/Futog	3200802	45.2387	19.7142	Futog	Futak	Serbia	SRB	
-https://de.wikipedia.org/wiki/Belgrad	792680	44.8040	20.4651	Beograd	Belgrad	Serbia	SRB	
-https://de.wikipedia.org/wiki/Bela_Crkva	792794	44.8975	21.4172	Bela Crkva	Weißkirchen	Serbia	SRB	
+https://de.wikipedia.org/wiki/Arad_(Rum%C3%A4nien)	686254	46.1833	21.3167	Arad	Arad	Romania	ROU	
+https://de.wikipedia.org/wiki/Aradul_Nou	686250	46.1468	21.3243	Aradul Nou (Arad)	Neu-Arad	Romania	ROU	
+https://de.wikipedia.org/wiki/Aradul_Nou	686250	46.1468	21.3243	Aradul Nou (Arad)	Neu-Arad	Romania	ROU	
+https://de.wikipedia.org/wiki/Baia_Mare	685826	47.6573	23.5681	Baia Mare	Groß-Neustadt	Romania	ROU	
+https://de.wikipedia.org/wiki/Băile_Herculane	685796	44.8797	22.4125	Băile Herculane	Herculesbad	Romania	ROU	
+https://de.wikipedia.org/wiki/Bistri%C8%9Ba	684657	47.1332	24.5001	Bistrița	Bistritz	Romania	ROU	
+https://de.wikipedia.org/wiki/Boc%C8%99a	684490	45.3733	21.7092	Bocșa	Bokschan	Romania	ROU	
+https://de.wikipedia.org/wiki/Br%C4%83ila	683902	45.2715	27.9743	Brăila	Braila	Romania	ROU	
+https://de.wikipedia.org/wiki/Bra%C8%99ov	683844	45.6486	25.6061	Braşov	Kronstadt	Romania	ROU	
+https://de.wikipedia.org/wiki/Orăștie	671757	45.8333	23.2000	Broos	Orăştie	Romania	ROU	
+https://de.wikipedia.org/wiki/Bukarest	683506	44.4323	26.1063	București	Bukarest	Romania	ROU	
+https://de.wikipedia.org/wiki/Buz%C4%83u	683123	45.1500	26.8333	Buzău	Buzau	Romania	ROU	
+https://de.wikipedia.org/wiki/Caransebe%C8%99	682729	45.4167	22.2167	Caransebeș	Karansebesch	Romania	ROU	
+https://de.wikipedia.org/wiki/Cernavod%C4%83	682321	44.3396	28.0327	Cernavodă	Cernavoda	Romania	ROU	
+https://de.wikipedia.org/wiki/Cluj-Napoca	681290	46.7667	23.6000	Cluj-Napoca	Klausenburg	Romania	ROU	
+https://de.wikipedia.org/wiki/Comloșu_Mare	680992	45.8906	20.6272	Comloş	Komlosch	Romania	ROU	
+https://de.wikipedia.org/wiki/Constanța	680963	44.1807	28.6343	Constanța	Konstanza	Romania	ROU	
+https://de.wikipedia.org/wiki/Craiova	680332	44.3167	23.8000	Craiova	Craiova	Romania	ROU	
+https://de.wikipedia.org/wiki/Detta_(Kreis_Timiș)	679456	45.3889	21.2244	Deta	Detta	Romania	ROU	
+https://de.wikipedia.org/wiki/Drobeta_Turnu_Severin	678817	44.6269	22.6529	Drobeta-Turno Severin	Turn-Severin	Romania	ROU	
+https://de.wikipedia.org/wiki/Focșani	678015	45.7000	27.1833	Focșani	Focsani	Romania	ROU	
+https://de.wikipedia.org/wiki/Galați	677697	45.4369	28.0503	Galați	Galatz	Romania	ROU	
+https://de.wikipedia.org/wiki/Giurgiu	677106	43.8866	25.9627	Giurgiu	Giurgiu	Romania	ROU	
+https://de.wikipedia.org/wiki/Iași	675810	47.1667	27.6000	Iaşi	Jassy	Romania	ROU	
+https://de.wikipedia.org/wiki/Jimbolia	675223	45.7914	20.7172	Jimbolia	Hatzfeld	Romania	ROU	
+https://de.wikipedia.org/wiki/Lipova_(Arad)	674733	46.0908	21.6963	Lipova	Lippa	Romania	ROU	
+https://de.wikipedia.org/wiki/Lugoj	674531	45.6886	21.9031	Lugoj	Lugos	Romania	ROU	
+https://de.wikipedia.org/wiki/Mediaș	673634	46.1667	24.3500	Mediaş	Mediasch	Romania	ROU	
+https://de.wikipedia.org/wiki/Mehadia	673619	44.9008	22.3669	Mehadia	(Bad) Mehadia	Romania	ROU	
+https://de.wikipedia.org/wiki/Oradea	671768	47.0458	21.9183	Oradea	Großwardein	Romania	ROU	
+https://de.wikipedia.org/wiki/Or%C4%83%C8%99tie	671757	45.8333	23.2000	Orăștie	Broos	Romania	ROU	
+https://de.wikipedia.org/wiki/Oravița	671746	45.0325	21.6894	Oraviţa	Oravitza	Romania	ROU	
+https://de.wikipedia.org/wiki/Orșova	671681	44.7230	22.3962	Orşova	Orsova	Romania	ROU	
+https://de.wikipedia.org/wiki/Râmnicu_Sărat	668873	45.3833	27.0500	Râmnicu Sarat	Rimnikul-Sarat	Romania	ROU	
+https://de.wikipedia.org/wiki/Rupea	668442	46.0333	25.2167	Rupea	Reps	Romania	ROU	
+https://de.wikipedia.org/wiki/Sânnicolau_Mare	666973	46.0833	20.6333	Sânnicolau Mare	St. Miklosch	Romania	ROU	
+https://de.wikipedia.org/wiki/Hermannstadt	667268	45.8000	24.1500	Sibiu	Hermannstadt	Romania	ROU	
+https://de.wikipedia.org/wiki/Sighișoara	8436351	46.2214	24.7928	Sighişoara	Schäßburg	Romania	ROU	
+https://de.wikipedia.org/wiki/Reghin	668997	46.7742	24.7022	Szászrégen	Reghin	Romania	ROU	
+https://de.wikipedia.org/wiki/Târgu_Mureș	665004	46.5424	24.5575	Târgu Mures	Neumarkt am Mieresch	Romania	ROU	
+https://de.wikipedia.org/wiki/Teremia_Mare	665231	45.9353	20.5250	Teremia Mare	Marienfeld	Romania	ROU	
+https://de.wikipedia.org/wiki/Timișoara	665087	45.7537	21.2257	Timişoara	Temeswar	Romania	ROU	
+https://de.wikipedia.org/wiki/Vatra_Dornei	663100	47.3500	25.3667	Vatra Dornei	Dorna Watra	Romania	ROU	
 https://de.wikipedia.org/wiki/Apatin	3204793	45.6726	18.9780	Apatin	Apatin	Serbia	SRB	
-https://de.wikipedia.org/wiki/Žilina	3056508	49.2232	18.7394	Žilina	Sillein	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Trnava	3057124	48.3774	17.5872	Trnava	Tyrnau	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Tren%C4%8Dianske_Teplice	3057141	48.9106	18.1669	Trenčianske Teplice	Trentschin-Teplitz / Bad Stuben	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Starý_Smokovec	723496	49.1391	20.2203	Starý Smokovec (Vysoké Tatry)	(Bad) Schmecks / Tátrafüred	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Sliač	3057576	48.6167	19.1372	Sliač	Sliaci	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Prešov	723819	48.9984	21.2339	Preszów	Eperies	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Piešťany	3058202	48.5948	17.8259	Piešťany	(Bad) Pistyan	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Nové_Mesto_nad_Váhom	3058477	48.7576	17.8309	Nové Mesto nad Váhom	Waag-Neustadtl	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Nitra	3058531	48.3076	18.0845	Nitra	Neutra	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Liptovský_Mikuláš	3059050	49.0806	19.6222	Liptovský Mikulás	Liptau-Sankt Nikolaus	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Levoča	724294	49.0217	20.5921	Levoča	Leutschau	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Kremnica	3059282	48.7052	18.9183	Kremnica	Kremnitz	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Košice	724443	48.7140	21.2581	Košice	Kaschau	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Kežmarok	724503	49.1357	20.4335	Kežmarok	Késmark	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Doln%C3%BD_Kub%C3%ADn	3060405	49.2098	19.3034	Dolný Kubín	Alsokubin	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Bratislava	3060972	48.1482	17.1067	Bratislava	Pressburg	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Bardejov	725168	49.2918	21.2727	Bardejov	Bartfeld	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Banská_Štiavnica	3061184	48.4486	18.9100	Banská Štiavnica	Schemnitz	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Belgrad	792680	44.8040	20.4651	Beograd	Belgrad	Serbia	SRB	
+https://de.wikipedia.org/wiki/Futog	3200802	45.2387	19.7142	Futog	Futak	Serbia	SRB	
+https://de.wikipedia.org/wiki/Zrenjanin	783814	45.3836	20.3819	Zrenjanin	Großbetschkerek / Nagybecskerek	Serbia	SRB	
+https://de.wikipedia.org/wiki/Kikinda	789518	45.8297	20.4653	Kikinda	Großkikinda	Serbia	SRB	
+https://de.wikipedia.org/wiki/Od%C5%BEaci	3194209	45.5067	19.2611	Odžaci	Hódság	Serbia	SRB	
+https://de.wikipedia.org/wiki/Srpski_Itebej	785600	45.5672	20.7135	Srpski Itebej	Ittebe	Serbia	SRB	
+https://de.wikipedia.org/wiki/Subotica	3189595	46.1000	19.6667	Subotica	Maria-Theresiopel	Serbia	SRB	
+https://de.wikipedia.org/wiki/Sremska_Mitrovica	3190103	44.9764	19.6122	Sremska Mitrovica	Mitrowitz	Serbia	SRB	
+https://de.wikipedia.org/wiki/Zrenjanin	783814	45.3836	20.3819	Zrenjanin	Nagybecskerek	Serbia	SRB	
+https://de.wikipedia.org/wiki/Novi_Sad	3194360	45.2517	19.8369	Novi Sad	Neusatz	Serbia	SRB	
+https://en.wikipedia.org/wiki/Opovo	787461	45.0522	20.4303	Opovo	Oppova	Serbia	SRB	
+https://de.wikipedia.org/wiki/Pan%C4%8Devo	787237	44.8718	20.6417	Pančevo	Pancsova	Serbia	SRB	
+https://de.wikipedia.org/wiki/Petrovaradin	3193406	45.2467	19.8794	Petrovaradin	Peterwardein	Serbia	SRB	
+https://de.wikipedia.org/wiki/Kni%C4%87anin	789415	45.1867	20.3190	Knićanin	Rudolfsgnad	Serbia	SRB	
+https://de.wikipedia.org/wiki/Zemun	783920	44.8458	20.4012	Zemun (Belgrad)	Semlin	Serbia	SRB	
+https://de.wikipedia.org/wiki/Temerin	3189166	45.4086	19.8892	Temerin	Temerin	Serbia	SRB	
+https://de.wikipedia.org/wiki/Titel_(Stadt)	785062	45.2061	20.2944	Titel	Titel	Serbia	SRB	
+https://de.wikipedia.org/wiki/Bela_Crkva	792794	44.8975	21.4172	Bela Crkva	Weißkirchen	Serbia	SRB	
+https://de.wikipedia.org/wiki/Vr%C5%A1ac	784136	45.1167	21.3036	Vršac	Werschetz	Serbia	SRB	
+https://de.wikipedia.org/wiki/Sombor	3190342	45.7742	19.1122	Sombor	Zombor	Serbia	SRB	
 https://de.wikipedia.org/wiki/Banská_Bystrica	3061186	48.7395	19.1535	Banská Bystrica	Neusohl	Slovakia	SVK	
-https://de.wikipedia.org/wiki/Slovenske_Konjice	3190530	46.3367	15.4258	Slovenske Konjice	Gonobitz	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Slovenj_Gradec	3190536	46.5103	15.0806	Slovenj Gradec	Windischgraz	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Roga%C5%A1ka_Slatina	3191580	46.2375	15.6397	Rogaška Slatina	Rohitsch-Sauerbrunn	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Rimske_Toplice	3191638	46.1226	15.1919	Rimske Toplice	Römerbad	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Ptuj	3192241	46.4201	15.8702	Ptuj	Pettau	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Banská_Štiavnica	3061184	48.4486	18.9100	Banská Štiavnica	Schemnitz	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Bardejov	725168	49.2918	21.2727	Bardejov	Bartfeld	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Bratislava	3060972	48.1482	17.1067	Bratislava	Pressburg	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Doln%C3%BD_Kub%C3%ADn	3060405	49.2098	19.3034	Dolný Kubín	Alsokubin	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Kežmarok	724503	49.1357	20.4335	Kežmarok	Késmark	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Kom%C3%A1rno	3059436	47.7636	18.1226	Komárno	Komorn	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Košice	724443	48.7140	21.2581	Košice	Kaschau	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Kremnica	3059282	48.7052	18.9183	Kremnica	Kremnitz	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Levoča	724294	49.0217	20.5921	Levoča	Leutschau	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Liptovský_Mikuláš	3059050	49.0806	19.6222	Liptovský Mikulás	Liptau-Sankt Nikolaus	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Nitra	3058531	48.3076	18.0845	Nitra	Neutra	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Nové_Mesto_nad_Váhom	3058477	48.7576	17.8309	Nové Mesto nad Váhom	Waag-Neustadtl	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Piešťany	3058202	48.5948	17.8259	Piešťany	(Bad) Pistyan	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Prešov	723819	48.9984	21.2339	Preszów	Eperies	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Sliač	3057576	48.6167	19.1372	Sliač	Sliaci	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Starý_Smokovec	723496	49.1391	20.2203	Starý Smokovec (Vysoké Tatry)	(Bad) Schmecks / Tátrafüred	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Tren%C4%8Dianske_Teplice	3057141	48.9106	18.1669	Trenčianske Teplice	Trentschin-Teplitz / Bad Stuben	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Skalica	3057627	49.4966	18.8971	Skalica	Skalitz	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Trnava	3057124	48.3774	17.5872	Trnava	Tyrnau	Slovakia	SVK	
+https://de.wikipedia.org/wiki/Žilina	3056508	49.2232	18.7394	Žilina	Sillein	Slovakia	SVK	
 https://de.wikipedia.org/wiki/Postojna	3192673	45.7743	14.2153	Postojna	Adelsberg	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Celje	3202781	46.2309	15.2604	Celje	Cilli	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Kozje	3197442	46.0750	15.5603	Kozje	Drachenburg	Slovenia	SVN	
 https://de.wikipedia.org/wiki/Ormo%C5%BE	3193965	46.4114	16.1544	Ormož	Friedau	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Novo_mesto	3194351	45.8040	15.1689	Novo mesto	Rudolfswerth	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Metlika	3195214	45.6472	15.3142	Metlika	Möttling	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Maribor	3195506	46.5547	15.6467	Maribor	Marburg an der Drau	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Slovenske_Konjice	3190530	46.3367	15.4258	Slovenske Konjice	Gonobitz	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Ko%C4%8Devje	3197943	45.6433	14.8633	Kočevje	Gottschee	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Kr%C5%A1ko	3197147	45.9592	15.4917	Krško	Gurkfeld	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Idrija	3199171	46.0028	14.0306	Idrija	Idria	Slovenia	SVN	
 https://de.wikipedia.org/wiki/Lo%C5%A1ka_Dolina	3218745	45.6213	14.4606	Loška Dolina	Laas	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Ljutomer	3196307	46.5209	16.1975	Ljutomer	Luttenberg	Slovenia	SVN	
 https://de.wikipedia.org/wiki/Ljubljana	3196359	46.0511	14.5051	Ljubljana	Laibach	Slovenia	SVN	
 https://de.wikipedia.org/wiki/Litija	3196425	46.0586	14.8225	Litija	Littai	Slovenia	SVN	
-https://de.wikipedia.org/wiki/La%C5%A1ko	3196760	46.1546	15.2356	Laško	Tüffer	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Kr%C5%A1ko	3197147	45.9592	15.4917	Krško	Gurkfeld	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Kozje	3197442	46.0750	15.5603	Kozje	Drachenburg	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Ko%C4%8Devje	3197943	45.6433	14.8633	Kočevje	Gottschee	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Idrija	3199171	46.0028	14.0306	Idrija	Idria	Slovenia	SVN	
-https://de.wikipedia.org/wiki/%C4%8Crnomelj	3202333	45.5711	15.1889	Črnomelj	Tschernembl	Slovenia	SVN	
-https://de.wikipedia.org/wiki/Celje	3202781	46.2309	15.2604	Celje	Cilli	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Ljutomer	3196307	46.5209	16.1975	Ljutomer	Luttenberg	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Maribor	3195506	46.5547	15.6467	Maribor	Marburg an der Drau	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Metlika	3195214	45.6472	15.3142	Metlika	Möttling	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Ptuj	3192241	46.4201	15.8702	Ptuj	Pettau	Slovenia	SVN	
 https://de.wikipedia.org/wiki/Bre%C5%BEice	3203412	45.9033	15.5911	Brežice	Rann	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Roga%C5%A1ka_Slatina	3191580	46.2375	15.6397	Rogaška Slatina	Rohitsch-Sauerbrunn	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Rimske_Toplice	3191638	46.1226	15.1919	Rimske Toplice	Römerbad	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Novo_mesto	3194351	45.8040	15.1689	Novo mesto	Rudolfswerth	Slovenia	SVN	
+https://de.wikipedia.org/wiki/%C4%8Crnomelj	3202333	45.5711	15.1889	Črnomelj	Tschernembl	Slovenia	SVN	
+https://de.wikipedia.org/wiki/La%C5%A1ko	3196760	46.1546	15.2356	Laško	Tüffer	Slovenia	SVN	
+https://de.wikipedia.org/wiki/Slovenj_Gradec	3190536	46.5103	15.0806	Slovenj Gradec	Windischgraz	Slovenia	SVN	
 https://de.wikipedia.org/wiki/Istanbul	745044	41.0138	28.9497	Istanbul	Konstantinopel	Turkey	TUR	
-https://de.wikipedia.org/wiki/Wolodymyr_(Stadt)	689378	50.8525	24.3236	Wolodymyr	Wolinska	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Ternopil	691650	49.5540	25.5907	Ternopil	Tarnopol	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Terebowlja	691693	49.2997	25.6889	Terebovlia	Trembowla	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Solotschiw	686896	49.8076	24.9006	Solotschiw	Zloczow	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Sambir	694864	49.5163	23.2006	Sambir	Sambor	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Odessa	698740	46.4857	30.7438	Odessa	Odessa	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Lwiw	702550	49.8383	24.0232	Lwiw	Lemberg	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Kiew	703448	50.4547	30.5238	Kyiv	Kiew	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Kowel	704617	51.2153	24.7087	Kovel	Kowel	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Kolomyja	705392	48.5250	25.0371	Kolomyjia	Kolomea	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Iwano-Frankiwsk	707471	48.9231	24.7125	Iwano-Frankiwsk	Stanislau	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Czernowitz	710719	48.2905	25.9324	Chernivtsi	Czernowitz	Ukraine	UKR	
-https://de.wikipedia.org/wiki/Charkiw	706483	49.9808	36.2527	Charkiw	Charkow	Ukraine	UKR	
 https://de.wikipedia.org/wiki/Brody_(Ukraine)	711416	50.0879	25.1503	Brody	Brody	Ukraine	UKR	
-	2760421	48.5744	15.1716	Zwettl-Niederösterreich	Zwettl			austria
-	3061472	49.0395	16.6188	Židlochovice	Groß Seelowitz			czech_republic
-	3061567	49.1374	13.2352	Železná Ruda	Eisenstein			czech_republic
-	3061822	50.3272	13.5458	Žatec	Saaz			czech_republic
-	3061867	50.7139	14.3962	Žandov	Sandau			czech_republic
-	3062111	49.8826	16.8722	Zábřeh	Hohenstadt			czech_republic
-	2760772	48.1667	15.0833	Ybbs an der Donau	Ybbs			austria
-	2764561	47.8705	16.2028	Wöllersdorf-Steinabrückl	Steinabrückl			austria
-	2760887	48.3833	16.5167	Wolkersdorf im Weinviertel	Wolkersdorf			austria
-	2760903	48.1067	13.6727	Wolfsegg am Hausruck	Wolfsegg			austria
-	2761149	47.7030	16.0333	Wimpassing im Schwarzatale	Wimpassing			austria
-	2761186	48.1057	15.6054	Wilhelmsburg (in Niederösterreich)	Wilhelmsburg			austria
-	2761571	47.1541	14.7388	Weißkirchen in Steiermark	Weißkirchen			austria
-	2761615	47.9821	16.0394	Weissenbach an der Triesting	Weißenbach			austria
-	2761880	47.5272	15.4810	Wartberg im Mürztal	Wartberg			austria
-	2761945	48.1667	14.7167	Wallsee-Sindelburg	Wallsee			austria
-	3062405	50.1800	13.3799	Vroutek	Rudig			czech_republic
-	3062439	50.6270	15.6094	Vrchlabí	Hohenelbe			czech_republic
-	587450	57.83389	27.0194	Võru	Werro			n_europe
-	593116	54.6892	25.2798	Vilnius	Wilna			n_europe
+https://de.wikipedia.org/wiki/Charkiw	706483	49.9808	36.2527	Charkiw	Charkow	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Czernowitz	710719	48.2905	25.9324	Chernivtsi	Czernowitz	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Iwano-Frankiwsk	707471	48.9231	24.7125	Iwano-Frankiwsk	Stanislau	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Kolomyja	705392	48.5250	25.0371	Kolomyjia	Kolomea	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Kowel	704617	51.2153	24.7087	Kovel	Kowel	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Kiew	703448	50.4547	30.5238	Kyiv	Kiew	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Lwiw	702550	49.8383	24.0232	Lwiw	Lemberg	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Odessa	698740	46.4857	30.7438	Odessa	Odessa	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Sambir	694864	49.5163	23.2006	Sambir	Sambor	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Solotschiw	686896	49.8076	24.9006	Solotschiw	Zloczow	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Terebowlja	691693	49.2997	25.6889	Terebovlia	Trembowla	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Ternopil	691650	49.5540	25.5907	Ternopil	Tarnopol	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Wolodymyr_(Stadt)	689378	50.8525	24.3236	Wolodymyr	Wolinska	Ukraine	UKR	
+https://de.wikipedia.org/wiki/Mosonmagyaróvár	3047896	47.8679	17.2699	Altenburg [in Ungarn]	Mosonmagyaróvár	Hungary	HUN	
+https://de.wikipedia.org/wiki/Baja	3055685	46.1830	18.9531	Baja / Frankenstadt	Baja	Hungary	HUN	
+https://de.wikipedia.org/wiki/Buda	3054667	47.5000	19.0333	Ofen	Buda (Budapest)	Hungary	HUN	
+https://de.wikipedia.org/wiki/XXII._Budapester_Bezirk	3054663	47.4239	19.0363	Promontor	Budafok-Tétény (Budapest)	Hungary	HUN	
+https://de.wikipedia.org/wiki/Budakeszi	3054648	47.5108	18.9272	Budakész	Budakeszi	Hungary	HUN	
+https://de.wikipedia.org/wiki/Budapest	3054643	47.4983	19.0405	Budapest	Budapest	Hungary	HUN	
+https://de.wikipedia.org/wiki/Eger_(Ungarn)	721239	47.9027	20.3733	Erlau	Eger	Hungary	HUN	
+https://de.wikipedia.org/wiki/Fertőd	3052645	47.6217	16.8709	Esterházy	Fertőd	Hungary	HUN	
+https://de.wikipedia.org/wiki/Esztergom	3053163	47.7930	187.415	Gran	Esztergom	Hungary	HUN	
+https://de.wikipedia.org/wiki/Pécs	3046526	46.0725	18.2308	Fünfkirchen	Pécs	Hungary	HUN	
+https://de.wikipedia.org/wiki/Nagykanizsa	3047679	46.4535	16.9910	Großkirchen / Groß-Kanizsa	Nagykanizsa	Hungary	HUN	
+https://de.wikipedia.org/wiki/Kőszeg	3049366	47.3892	16.5410	Güns	Kőszeg	Hungary	HUN	
+https://de.wikipedia.org/wiki/Komorn	3049519	47.7432	18.1191	Komorn	Komárom	Hungary	HUN	
+https://de.wikipedia.org/wiki/Miskolc	717582	48.1031	20.7781	Miskolz	Miskolc	Hungary	HUN	
+https://de.wikipedia.org/wiki/Mohács	3047967	45.9902	18.6862	Mohács	Mohatsch	Hungary	HUN	
+https://de.wikipedia.org/wiki/IV._Budapester_Bezirk	3043470	47.5686	19.0846	Neu-Pest	Újpest (Budapest)	Hungary	HUN	
+https://de.wikipedia.org/wiki/Sopron	3045190	47.6850	16.5905	Oedenburg	Sopron	Hungary	HUN	
+https://de.wikipedia.org/wiki/Pest_(Stadt)	3046446	47.5000	19.0833	Pest	Pest (Budapest)	Hungary	HUN	
+https://de.wikipedia.org/wiki/Szombathely	3044310	47.2309	16.6216	Steinamanger	Szombathely	Hungary	HUN	
+https://de.wikipedia.org/wiki/Szeged	715429	46.2530	20.1482	Szegedin	Szeged	Hungary	HUN	
+https://de.wikipedia.org/wiki/Szentendre	3044681	47.6694	19.0756	Szent-Endre	Szentendre	Hungary	HUN	
+https://de.wikipedia.org/wiki/Tata_(Ungarn)	3044083	47.6529	18.3184	Totis	Tata	Hungary	HUN	
+https://de.wikipedia.org/wiki/Tolna	3043849	46.4268	18.7825	Tolnau	Tolna	Hungary	HUN	
+https://de.wikipedia.org/wiki/Vác	3043293	47.7759	19.1361	Waitzen	Vác	Hungary	HUN	
+	2760421	48.5744	15.1716	Zwettl-Niederösterreich	Zwettl	Austria	AUT	
+	2760772	48.1667	15.0833	Ybbs an der Donau	Ybbs	Austria	AUT	
+	2764561	47.8705	16.2028	Wöllersdorf-Steinabrückl	Steinabrückl	Austria	AUT	
+	2760887	48.3833	16.5167	Wolkersdorf im Weinviertel	Wolkersdorf	Austria	AUT	
+	2760903	48.1067	13.6727	Wolfsegg am Hausruck	Wolfsegg	Austria	AUT	
+	2761149	47.7030	16.0333	Wimpassing im Schwarzatale	Wimpassing	Austria	AUT	
+	2761186	48.1057	15.6054	Wilhelmsburg (in Niederösterreich)	Wilhelmsburg	Austria	AUT	
+	2761571	47.1541	14.7388	Weißkirchen in Steiermark	Weißkirchen	Austria	AUT	
+	2761615	47.9821	16.0394	Weissenbach an der Triesting	Weißenbach	Austria	AUT	
+	2761880	47.5272	15.4810	Wartberg im Mürztal	Wartberg	Austria	AUT	
+	2761945	48.1667	14.7167	Wallsee-Sindelburg	Wallsee	Austria	AUT	
+https://en.wikipedia.org/wiki/T%C3%B8nder	2611497	54.9331	8.8667	Tønder	Tondern	Denmark	DNK	
+https://en.wikipedia.org/wiki/S%C3%B8nderborg	2613102	54.90896	9.7892	Sønderborg	Sonderburg	Denmark	DNK	
 	3553478	23.1330	-82.3830	Villa de San Cristóbal de la Habana	Havanna			america
-	587577	58.3639	25.5900	Viljandi	Fellin			n_europe
-	3062898	50.3010	13.3120	Vilémov	Willomitz			czech_republic
-	3062924	50.3723	17.1863	Vidnava	Weidenau			czech_republic
-	3063091	50.6611	14.3011	Verneřice	Wernstadt			czech_republic
-	454310	57.3949	21.5612	Ventspils	Windau			n_europe
-	3063225	50.6898	15.7691	Velká Úpa	Groß-Aupa			czech_republic
-	3063296	50.2841	13.0097	Velichov	Welchau			czech_republic
-	3063318	50.5390	13.9768	Velemín	Wellemin			czech_republic
+https://de.wikipedia.org/wiki/Skodborg_Sogn	2613692	55.4185	9.1532	Skodborg / Skodborg Sogn	Schottburg	Denmark	DNK	
+https://en.wikipedia.org/wiki/Copenhagen	2618425	55.6759	12.5655	København	Kopenhagen	Denmark	DNK	
 	3868626	-33.036	-71.6296	Valparaíso	Valparaiso			america
-	453754	57.5411	25.4275	Valmiera	Wolmar			n_europe
-	454572	57.7752	26.0101	Valka	Walk			n_europe
-	3063548	50.6607	14.0323	Ústí nad Labem	Außig			czech_republic
-	3063556	50.5847	14.3433	Úštěk	Auscha			czech_republic
-	2763144	47.8052	13.4894	Unterach am Attersee	Unterach			austria
-	2763266	48.3283	16.0586	Tulln an der Donau	Tulln			austria
-	3063962	50.6524	13.8536	Trnovany (Teplice)	Turn			czech_republic
-	3063987	50.6429	13.9945	Trmice	Türmitz			czech_republic
-	3063999	49.9422	12.6166	Tři Sekery	Dreihacken			czech_republic
-	2611497	54.9331	8.8667	Tønder	Tondern			n_europe
-	3064217	50.7845	14.0313	Tisá	Tyssa			czech_republic
-	3064268	50.5110	14.1506	Terezín	Theresienstadt			czech_republic
-	3070820	49.9710	12.8643	Teplá	Tepl			czech_republic
-	611717	41.6941	44.8337	Tbilissi	Tiflis			n_europe
-	588335	58.3806	26.7251	Tartu	Dorpat			n_europe
-	3064358	50.7374	15.3059	Tanvald	Tannwald			czech_republic
-	588409	59.43696	24.7535	Tallinn	Reval			n_europe
-	3064373	49.7953	12.6337	Tachov	Tachau			czech_republic
-	3064454	49.7559	16.4683	Svitavy	Zwittau			czech_republic
-	3064673	49.9653	16.9706	Šumperk	Mährisch Schönberg			czech_republic
-	3064770	50.6323	14.4286	Stvolínky	Drum			czech_republic
-	3064919	49.7557	12.9970	Stříbro	Mies			czech_republic
-	3065116	49.6391	13.1647	Stod	Staab			czech_republic
-	2608545	47.5000	13.7500	Stein an der Donau (Krems)	Stein			austria
-	3065327	50.3982	16.1581	Staré Město nad Metují	Altstadt			czech_republic
-	3065340	50.9504	14.4962	Staré Křečany	Alt-Ehrenberg			czech_republic
-	3065368	50.5374	15.8481	Staré Buky	Altenbuch			czech_republic
-	3065389	50.2462	12.8304	Stará Role	Altrohlau			czech_republic
-	3065431	50.1651	12.8740	Stanovice u Karlových Var	Donawitz			czech_republic
-	2764721	48.0833	13.8667	Stadl-Paura	Paura			austria
+https://en.wikipedia.org/wiki/Klampenborg	2618794	55.7763	12.5901	Klampenborg	Klampenborg/Kopenhagen	Denmark	DNK	
+https://en.wikipedia.org/wiki/Helsing%C3%B8r	2620473	56.0361	12.6136	Helsingør / Elsinore	Helsingör	Denmark	DNK	
+	2763144	47.8052	13.4894	Unterach am Attersee	Unterach	Austria	AUT	
+	2763266	48.3283	16.0586	Tulln an der Donau	Tulln	Austria	AUT	
+https://en.wikipedia.org/wiki/Haderslev	2620964	55.2494	9.4877	Haderslev	Hadersleben	Denmark	DNK	
+https://en.wikipedia.org/wiki/Freetown_Christiania	2623186	55.6735	12.5977	Fristad Christiania	Christiania	Denmark	DNK	
+https://en.wikipedia.org/wiki/Aalborg	2624886	57.0480	9.9187	Ålborg	Aalborg	Denmark	DNK	
+https://en.wikipedia.org/wiki/Aabenraa	2625070	55.0443	9.4174	Aabenraa	Apenrade	Denmark	DNK	
+	2608545	47.5000	13.7500	Stein an der Donau (Krems)	Stein	Austria	AUT	
+	2764721	48.0833	13.8667	Stadl-Paura	Paura	Austria	AUT	
 	6158357	42.7736	-81.1804	St. Thomas	Saint Thomas (Ontario)			america
 	4407010	39.7686	-94.8466	St. Joseph	Saint Joseph			america
 	5392171	37.3394	-121.89496	St. Joseph	San Jose [José]			america
-	2766772	46.7683	14.8199	St. Andrä im Lavanttal	Sankt Andrä			austria
-	2764831	48.1703	16.2847	Speising (Wien)	Speising			austria
-	2613102	54.90896	9.7892	Sønderborg	Sonderburg			n_europe
-	3065617	50.1813	12.6401	Sokolov	Falkenau an der Eger			czech_republic
-	3065779	50.7401	14.5915	Sloup v Čechách	Bürgstein			czech_republic
-	2613692	55.4185	9.1532	Skodborg; Skodborg Sogn	Schottburg			n_europe
-	2765080	48.04690	14.33370	Sierninghofen (Sierning)	Sierninghofen			austria
-	2774832	47.9471	13.5954	Schörfling am Attersee	Kammer am Attersee			austria
-	2765730	47.9345	16.2538	Schönau an der Triesting	Schönau			austria
+	2766772	46.7683	14.8199	St. Andrä im Lavanttal	Sankt Andrä	Austria	AUT	
+	2764831	48.1703	16.2847	Speising (Wien)	Speising	Austria	AUT	
+https://en.wikipedia.org/wiki/Odense	2615876	55.3959	10.3883	Odense	Odense	Denmark	DNK	
+https://en.wikipedia.org/wiki/Aarhus	2624652	56.1567	10.2108	Aarhus	Aarhus	Denmark	DNK	
+	2765080	48.04690	14.33370	Sierninghofen (Sierning)	Sierninghofen	Austria	AUT	
+	2774832	47.9471	13.5954	Schörfling am Attersee	Kammer am Attersee	Austria	AUT	
+	2765730	47.9345	16.2538	Schönau an der Triesting	Schönau	Austria	AUT	
 	3448439	-23.5475	-46.6361	São Paulo	Sao Paulo			america
 	3448622	-29.7603	-51.1472	São Leopoldo	Sao Leopoldo			america
 	3449741	-29.1917	-54.8672	Santiago (Rio Grande do Sul)	Santiago			america
 	3871336	-33.4569	-70.6483	Santiago	Santiago de Chile			america
-	2766340	47.7393	13.4467	Sankt Wolfgang im Salzkammergut	Sankt Wolfgang			austria
-	2766359	46.7681	14.3603	Sankt Veit an der Glan	Sankt Veit			austria
-	2766495	47.3384	15.0178	Sankt Michael in Obersteiermark	Sankt Michael			austria
-	11903640	47.0692	15.4578	Sankt Leonhard (Graz)	Sankt Leonhard bei Graz			austria
+	2766340	47.7393	13.4467	Sankt Wolfgang im Salzkammergut	Sankt Wolfgang	Austria	AUT	
+	2766359	46.7681	14.3603	Sankt Veit an der Glan	Sankt Veit	Austria	AUT	
+	2766495	47.3384	15.0178	Sankt Michael in Obersteiermark	Sankt Michael	Austria	AUT	
+	11903640	47.0692	15.4578	Sankt Leonhard (Graz)	Sankt Leonhard bei Graz	Austria	AUT	
 	5007989	43.4195	-83.9508	Saginaw (?)	Saginow			america
-	3066538	50.2345	12.8520	Rybáře (Karlovy Vary)	Fischern-Karlsbad			czech_republic
-	2767280	48.5728	13.9883	Rohrbach-Berg	Rohrbach			austria
-	2767777	47.6951	15.8457	Reichenau an der Rax	Reichenau			austria
-	2767902	47.4394	11.8941	Rattenberg (in Tirol)	Rattenberg			austria
-	2768177	48.8500	15.5000	Raabs an der Thaya	Raabs			austria
-	2768180	48.3524	13.6469	Raab (Oberösterreich)	Raab			austria
-	2768236	48.0584	15.1348	Purgstall an der Erlauf	Purgstall			austria
-	3067382	50.4007	13.2780	Prunéřov (Kadaň)	Brunnersdorf			czech_republic
-	3067688	50.0501	12.7328	Prameny	Sangerberg			czech_republic
-	3067713	49.0129	13.9975	Prachatice	Prachatitz			czech_republic
-	3067770	50.3598	13.7029	Postoloprty	Postelberg			czech_republic
-	2768497	46.6364	14.1464	Pörtschach am Wörther See	Pörtschach			austria
-	3067953	48.9812	16.5245	Pohořelice	Pohrlitz			czech_republic
-	3068031	50.7667	14.2000	Podmokly (Děčín)	Bodenbach an der Elbe			czech_republic
-	3068156	50.2503	13.7038	Pnětluky	Netluk			czech_republic
-	3068191	50.2207	12.3467	Plesná	Fleißen			czech_republic
-	3068246	49.8682	12.7438	Planá u Mariánských Lázní	Plan			czech_republic
+	2767280	48.5728	13.9883	Rohrbach-Berg	Rohrbach	Austria	AUT	
+	2767777	47.6951	15.8457	Reichenau an der Rax	Reichenau	Austria	AUT	
+	2767902	47.4394	11.8941	Rattenberg (in Tirol)	Rattenberg	Austria	AUT	
+	2768177	48.8500	15.5000	Raabs an der Thaya	Raabs	Austria	AUT	
+	2768180	48.3524	13.6469	Raab (Oberösterreich)	Raab	Austria	AUT	
+	2768236	48.0584	15.1348	Purgstall an der Erlauf	Purgstall	Austria	AUT	
+	2768497	46.6364	14.1464	Pörtschach am Wörther See	Pörtschach	Austria	AUT	
 	5206379	40.4406	-79.9959	Pittsburg	Pittsburgh			america
-	3068293	49.3088	14.1475	Písek	Pisek			czech_republic
-	3068350	50.7890	13.9761	Petrovice u Chabařovic	Peterswald			czech_republic
 	3454031	-22.505	-43.1786	Petrópolis	Petrópolis			america
 	4171563	27.7709	-82.6793	Petersburg (?)	Saint Petersburg			america
-	2769059	48.1873	15.0881	Persenbeug-Gottsdorf	Persenbeug			austria
-	3068423	50.3657	12.7837	Pernink	Bärringen			czech_republic
-	589580	58.3859	24.4971	Pärnu	Pernau			n_europe
-	596238	55.9175	21.0686	Palanga	Polangen			n_europe
-	3068799	49.8347	18.2820	Ostrava	Mährisch Ostrau			czech_republic
-	3068857	50.6212	13.6927	Osek	Ossegg			czech_republic
-	3068963	50.2575	17.3488	Ondřejovice (Zlaté Hory)	Endersdorf			czech_republic
-	2769573	47.2500	14.4833	Oberzeiring (Pölstal)	Oberzeiring			austria
-	2769900	48.3213	13.3343	Obernberg am Inn	Obernberg			austria
-	2770113	48.1504	15.5453	Ober-Grafendorf	Obergrafendorf			austria
-	2770400	48.2590	16.3645	Nussdorf (Wien)	Nussdorf (Wien)			austria
-	3069551	50.5947	13.4824	Nová Ves v Horách	Gebirgsneudorf			czech_republic
-	2770634	48.0500	14.3333	Neuzeug (Sierning)	Neuzeug (Sierning)			austria
-	2770844	47.6642	15.5723	Neuberg an der Mürz	Neuberg			austria
-	3069934	50.3224	12.7294	Nejdek	Neudek			czech_republic
-	3069969	49.9748	13.1646	Nečtiny	Netschetin			czech_republic
-	3070122	50.4167	16.1629	Náchod	Nachod			czech_republic
-	3070291	50.5030	13.6362	Most	Brüx			czech_republic
-	2771305	48.0258	16.3051	Möllersdorf (Traiskirchen)	Möllersdorf			austria
-	3070409	49.7770	16.9195	Mohelnice	Müglitz			czech_republic
-	3070622	50.6587	14.7247	Mimoň	Niemes			czech_republic
-	2771619	47.8776	14.1336	Micheldorf in Oberösterreich	Micheldorf			austria
-	3070862	50.3505	14.4741	Mělník	Melnik			czech_republic
-	3070906	50.2667	13.5374	Měcholupy u Žatce	Michelob			czech_republic
-	2771750	47.8026	13.0188	Maxglan (Salzburg)	Maxglan (Salzburg)			austria
-	2771761	47.4000	14.8333	Mautern an der Donau	Mautern			austria
-	2771781	48.1507	16.2686	Mauer (Wien)	Mauer (Wien)			austria
-	2771801	48.4000	16.7000	Matzen-Raggendorf	Matzen			austria
-	3070930	50.2623	13.2805	Mašťov	Maschau			czech_republic
-	2771869	47.8736	16.1251	Markt Piesting	Piesting			austria
-	3071024	49.9646	12.7019	Mariánské Lázně	Marienbad			czech_republic
-	2772003	47.9667	16.6000	Mannersdorf am Leithagebirge	Mannersdorf			austria
-	457707	56.9734	23.8030	Majori	Majorenhof bei Riga			n_europe
-	3071392	50.1559	13.1506	Luka (Verušičky)	Luck			czech_republic
-	3071467	50.1321	13.3132	Lubenec	Lubenz			czech_republic
-	3071480	50.5150	14.0510	Lovosice	Lobositz			czech_republic
-	3071627	50.1860	12.7541	Loket	Elbogen			czech_republic
-	3071773	51.0110	14.3602	Lipová u Šluknova	Hainspach			czech_republic
-	2771871	48.0235	15.6028	Lilienfeld, Ortsteil Marktl	Marktl			austria
-	457954	56.5047	21.0109	Liepâja	Libau			n_europe
-	3071961	50.7671	15.0562	Liberec	Reichenberg			czech_republic
-	2772709	47.9335	16.4792	Leithaprodersdorf	Bad Leithaprodersdorf			austria
-	3072230	50.5850	13.7720	Ledvice	Ladowitz			czech_republic
-	3072332	49.9122	16.6119	Lanškroun	Landskron			czech_republic
-	3072394	50.1189	12.5303	Kynšperk nad Ohří	Königsberg an der Eger			czech_republic
-	590939	58.2538	22.4922	Kuressaare	Arensburg			n_europe
-	458460	56.97399	21.9572	Kuldīga	Goldingen			n_europe
-	3072580	50.7745	14.9334	Kryštofovo Údolí	Christofsgrund			czech_republic
-	3072581	50.1744	13.4266	Kryry	Kriegern			czech_republic
-	3072598	50.6845	13.8582	Krupka	Graupen			czech_republic
-	3072712	48.9091	14.0200	Křišťanov	Christianberg			czech_republic
-	3072889	50.9130	14.5100	Krásná Lípa	Schönlinde			czech_republic
-	3072903	50.3237	12.5175	Kraslice	Graslitz			czech_republic
-	598316	54.9027	23.9096	Kowno	Kaunas			n_europe
-	3073124	50.5601	13.8731	Kostomlaty pod Milešovkou	Kostenblatt			czech_republic
-	2618425	55.6759	12.5655	København	Kopenhagen			n_europe
-	2774077	48.2500	14.3167	Kleinmünchen (Linz)	Kleinmünchen			austria
-	3073668	50.3886	13.1834	Klášterec nad Ohří	Klösterle an der Eger			czech_republic
-	2618794	55.7763	12.5901	Klampenborg	Klampenborg/Kopenhagen			n_europe
-	598098	55.7068	21.1391	Klaipėda	Memel			n_europe
-	2774449	48.3100	16.2762	Kierling (Klosterneuburg)	Kierling			austria
-	3073769	49.1429	13.5562	Kašperské Hory	Bergreichenstein			czech_republic
-	3073803	50.2327	12.8712	Karlovy Vary	Karlsbad			czech_republic
-	3073928	50.7736	14.4729	Kamenický Šenov	Steinschönau			czech_republic
-	2774904	48.1375	16.2460	Kalksburg (Wien)	Kalksburg			austria
-	3074020	50.3833	13.2667	Kadaň	Kaaden			czech_republic
-	3074110	50.4998	13.4477	Jirkov	Görkau			czech_republic
-	3074149	49.1440	15.0030	Jindřichův Hradec	Neuhaus			czech_republic
-	3074181	50.7608	14.1038	Jílové u Děčína	Eulau			czech_republic
-	3074284	50.0970	13.4695	Jesenice u Rakovníka	Jechnitz			czech_republic
-	459279	56.6500	23.7128	Jelgava	Mitau			n_europe
-	3074587	50.3585	12.9347	Jáchymov	Sankt Joachimsthal			czech_republic
-	3074597	50.7653	14.7605	Jablonné v Podještědí	Deutsch-Gabel			czech_republic
-	3074615	49.1014	16.3775	Ivančice	Eibenschütz			czech_republic
-	3074677	48.9409	16.7376	Hustopeče	Auspitz			czech_republic
-	3074740	50.6271	13.7827	Hudcov (Teplice)	Hundorf			czech_republic
-	3074797	50.3094	12.8718	Hroznětín	Lichtenstadt			czech_republic
-	3074889	50.3046	12.1758	Hranice u Aše	Roßbach			czech_republic
-	3074944	50.8528	14.8446	Hrádek nad Nisou	Grottau			czech_republic
-	3075058	50.5406	15.7233	Hostinné	Arnau			czech_republic
-	3075112	49.5297	12.9441	Horšovský Týn	Bischofteinitz			czech_republic
-	3075191	48.7612	14.7350	Horní Stropnice	Strobnitz			czech_republic
-	3075296	49.9085	17.2111	Horní Město	Bergstadt			czech_republic
-	3071665	50.6042	13.6181	Horní Litvínov	Oberleutensdorf			czech_republic
-	3075451	49.9668	17.6026	Horní Benešov	Bennisch			czech_republic
-	2775636	48.5500	16.0833	Hollabrunn	Oberhollabrunn			austria
-	3075632	48.7290	14.7275	Hojná Voda (Horní Stropnice)	Heilbrunn			czech_republic
-	2620473	56.0361	12.6136	Helsingør; Elsinore (geonames)	Helsingör			n_europe
-	658225	60.1695	24.9355	Helsingin	Helsingfors			n_europe
-	3075894	50.8772	15.1817	Hejnice	Haindorf			czech_republic
-	3075949	49.1695	13.4546	Hartmanice	Hartmanitz			czech_republic
-	2620964	55.2494	9.4877	Haderslev	Hadersleben			n_europe
-	2777109	48.2000	16.2500	Hacking (Wien)	Hacking/Wien			austria
-	592225	58.9431	23.5414	Haapsalu	Hapsal			n_europe
-	2777701	48.5742	14.9579	Groß Gerungs	Groß-Gerungs			austria
-	2778131	48.0193	16.4949	Gramatneusiedl, Ortsteil Marienthal	Marienthal			austria
-	2778845	48.5977	15.6607	Gars am Kamp	Gars			austria
-	2623186	55.6735	12.5977	Fristad Christiania	Christiania			n_europe
-	3076136	50.1203	12.3517	Františkovy Lázně	Franzensbad			czech_republic
-	592279	58.2225	26.4211	Elva	Bad Elwa / Bad Pernau a. Elwa			n_europe
-	3076311	50.6030	13.7462	Duchcov	Dux			czech_republic
-	460221	56.9668	23.76798	Dubulti	Dubbeln			n_europe
-	3076346	50.6856	13.7856	Dubí	Eichwald			czech_republic
-	3076363	50.5403	14.5402	Dubá	Dauba			czech_republic
+	2769059	48.1873	15.0881	Persenbeug-Gottsdorf	Persenbeug	Austria	AUT	
+https://de.wikipedia.org/wiki/V%C3%B5ru	587450	57.83389	27.0194	Võru	Werro	Estonia	EST	
+https://en.wikipedia.org/wiki/Viljandi	587577	58.3639	25.5900	Viljandi	Fellin	Estonia	EST	
+	2769573	47.2500	14.4833	Oberzeiring (Pölstal)	Oberzeiring	Austria	AUT	
+	2769900	48.3213	13.3343	Obernberg am Inn	Obernberg	Austria	AUT	
+	2770113	48.1504	15.5453	Ober-Grafendorf	Obergrafendorf	Austria	AUT	
+	2770400	48.2590	16.3645	Nussdorf (Wien)	Nussdorf (Wien)	Austria	AUT	
+	2770634	48.0500	14.3333	Neuzeug (Sierning)	Neuzeug (Sierning)	Austria	AUT	
+	2770844	47.6642	15.5723	Neuberg an der Mürz	Neuberg	Austria	AUT	
+	2771305	48.0258	16.3051	Möllersdorf (Traiskirchen)	Möllersdorf	Austria	AUT	
+	2771619	47.8776	14.1336	Micheldorf in Oberösterreich	Micheldorf	Austria	AUT	
+	2771750	47.8026	13.0188	Maxglan (Salzburg)	Maxglan (Salzburg)	Austria	AUT	
+	2771761	47.4000	14.8333	Mautern an der Donau	Mautern	Austria	AUT	
+	2771781	48.1507	16.2686	Mauer (Wien)	Mauer (Wien)	Austria	AUT	
+	2771801	48.4000	16.7000	Matzen-Raggendorf	Matzen	Austria	AUT	
+	2771869	47.8736	16.1251	Markt Piesting	Piesting	Austria	AUT	
+	2772003	47.9667	16.6000	Mannersdorf am Leithagebirge	Mannersdorf	Austria	AUT	
+https://en.wikipedia.org/wiki/Tartu	588335	58.3806	26.7251	Tartu	Dorpat	Estonia	EST	
+	2771871	48.0235	15.6028	Lilienfeld, Ortsteil Marktl	Marktl	Austria	AUT	
+https://en.wikipedia.org/wiki/Tallinn	588409	59.43696	24.7535	Tallinn	Reval	Estonia	EST	
+	2772709	47.9335	16.4792	Leithaprodersdorf	Bad Leithaprodersdorf	Austria	AUT	
+https://en.wikipedia.org/wiki/P%C3%A4rnu	589580	58.3859	24.4971	Pärnu	Pernau	Estonia	EST	
+https://en.wikipedia.org/wiki/Kuressaare	590939	58.2538	22.4922	Kuressaare	Arensburg	Estonia	EST	
+https://en.wikipedia.org/wiki/Haapsalu	592225	58.9431	23.5414	Haapsalu	Hapsal	Estonia	EST	
+https://en.wikipedia.org/wiki/Elva,_Estonia	592279	58.2225	26.4211	Elva	Bad Elwa / Bad Pernau a. Elwa	Estonia	EST	
+	2774077	48.2500	14.3167	Kleinmünchen (Linz)	Kleinmünchen	Austria	AUT	
+https://en.wikipedia.org/wiki/Narva	590031	59.3772	28.1903	Narva	Narva	Estonia	EST	
+https://en.wikipedia.org/wiki/Helsinki	658225	60.1695	24.9355	Helsinki	Helsingfors	Finland	FIN	
+	2774449	48.3100	16.2762	Kierling (Klosterneuburg)	Kierling	Austria	AUT	
+	2774904	48.1375	16.2460	Kalksburg (Wien)	Kalksburg	Austria	AUT	
+https://en.wikipedia.org/wiki/Turku	633679	60.4515	22.2687	Turku	Abo	Finland	FIN	
+	2775636	48.5500	16.0833	Hollabrunn	Oberhollabrunn	Austria	AUT	
+https://en.wikipedia.org/wiki/Tbilisi	611717	41.6941	44.8337	Tbilissi	Tiflis	Georgia	GEO	
+https://en.wikipedia.org/wiki/Ventspils	454310	57.3949	21.5612	Ventspils	Windau	Latvia	LVA	
+https://en.wikipedia.org/wiki/Valmiera	453754	57.5411	25.4275	Valmiera	Wolmar	Latvia	LVA	
+	2777109	48.2000	16.2500	Hacking (Wien)	Hacking/Wien	Austria	AUT	
+https://en.wikipedia.org/wiki/Valka	454572	57.7752	26.0101	Valka	Walk	Latvia	LVA	
+	2777701	48.5742	14.9579	Groß Gerungs	Groß-Gerungs	Austria	AUT	
+	2778131	48.0193	16.4949	Gramatneusiedl, Ortsteil Marienthal	Marienthal	Austria	AUT	
+	2778845	48.5977	15.6607	Gars am Kamp	Gars	Austria	AUT	
+https://en.wikipedia.org/wiki/Majori	457707	56.9734	23.8030	Majori	Majorenhof bei Riga	Latvia	LVA	
+https://en.wikipedia.org/wiki/Liep%C4%81ja	457954	56.5047	21.0109	Liepâja	Libau	Latvia	LVA	
+https://en.wikipedia.org/wiki/Kuld%C4%ABga	458460	56.97399	21.9572	Kuldīga	Goldingen	Latvia	LVA	
 	5391959	37.7749	-122.4194	dt. San Franzisko	San Francisco			america
-	3076518	50.2593	13.1414	Doupov	Duppau			czech_republic
-	3076565	50.2113	12.8286	Doubí (Karlovy Vary)	Aich			czech_republic
-	2776488	48.2283	16.3000	Dornbach (Wien)	Dornbach			austria
-	3076570	50.8433	14.8560	Donín (Hrádek nad Nisou)	Dönis			czech_republic
-	3076961	49.4433	13.2481	Dolany u Klatov	Dolan			czech_republic
-	3077073	49.6548	13.2931	Dobřany	Dobrzan			czech_republic
-	3077244	50.7822	14.2148	Děčín	Tetschen			czech_republic
-	460413	55.8833	26.5333	Daugavpils	Dünaburg			n_europe
-	3077291	50.2478	12.8958	Dalovice	Dallwitz			czech_republic
+	2776488	48.2283	16.3000	Dornbach (Wien)	Dornbach	Austria	AUT	
+https://en.wikipedia.org/wiki/Jelgava	459279	56.6500	23.7128	Jelgava	Mitau	Latvia	LVA	
 	3464975	-25.4278	-49.2731	Curitiba	Curitiba			america
 	3530597	19.4285	-99.1277	Ciudad de México	Mexiko-Stadt, Mexiko City			america
-	3077455	50.1046	13.2491	Chyše	Chiesch			czech_republic
-	3077478	48.8540	14.2111	Chvalšiny	Kalsching			czech_republic
-	3077558	50.8608	14.4844	Chřibská	Kreibitz			czech_republic
-	3077584	50.8169	14.9688	Chrastava	Kratzau			czech_republic
-	3077685	50.4605	13.4178	Chomutov	Komotau			czech_republic
-	3077706	50.240	12.7455	Chodov	Chodau			czech_republic
-	3077725	50.0016	16.2230	Choceň	Chotzen			czech_republic
-	3077835	50.0796	12.3739	Cheb	Eger			czech_republic
-	3077862	50.6732	13.9418	Chabařovice	Karbitz			czech_republic
-	3077889	48.8109	14.3152	Český Krumlov	Krumau			czech_republic
-	3077891	50.7075	13.5474	Český Jiřetín	Georgenthal			czech_republic
-	3077895	50.6605	14.9962	Český Dub	Böhmisch Aicha			czech_republic
-	3077916	48.9745	14.4743	České Budějovice	Budweis			czech_republic
-	3077929	50.6855	14.5376	Česká Lípa	Böhmisch Leipa			czech_republic
-	3077932	50.7978	14.4177	Česká Kamenice	Böhmisch Kamnitz			czech_republic
-	460570	57.3119	25.2746	Cēsis	Wenden			n_europe
-	3078325	50.7833	14.1500	Bynov (Děčín)	Bünauburg bei Bodenbach			czech_republic
-	3078445	50.6812	14.0103	Bukov (Ústí nad Labem)	Pokau			czech_republic
-	3078456	48.7023	14.4297	Bujanov	Angern			czech_republic
-	3078469	49.7951	17.6297	Budišov nad Budišovkou	Bautsch			czech_republic
-	3078547	50.0153	17.7496	Brumovice u Opavy	Braunsdorf			czech_republic
-	3078577	50.5857	16.3318	Broumov	Braunau in Böhmen			czech_republic
-	3078610	49.1952	16.6080	Brno	Brünn			czech_republic
-	3078648	49.9117	17.3711	Břidličná	Friedland			czech_republic
-	3078659	49.6442	16.5180	Březová nad Svitavou	Brüsau			czech_republic
-	2769121	48.2017	16.3108	Breitensee (Wien)	Breitensee			austria
-	2779138	48.1963	16.3274	Braunhirschen (Wien)	Braunhirschen			austria
-	3078838	50.1836	14.6724	Brandýs nad Labem-Stará Boleslav	Brandeis an der Elbe-Altbunzlau			czech_republic
-	3078840	50.6320	13.3907	Brandov	Brandau			czech_republic
-	3079174	50.1487	13.0523	Bochov	Buchau			czech_republic
-	3079319	50.8737	15.2221	Bílý Potok pod Smrkem	Weißbach			czech_republic
-	3079348	50.5485	13.7754	Bílina	Bilin			czech_republic
-	3079407	50.5336	14.7220	Bezděz	Schloßbösig			czech_republic
-	3079472	50.6447	15.9658	Bernartice u Trutnova	Bernsdorf			czech_republic
-	3079500	50.7416	14.3124	Benešov nad Ploučnicí	Bensen			czech_republic
-	3079501	48.7294	14.6274	Benešov nad Černou	Deutsch Beneschau			czech_republic
-	3079609	50.0835	12.8383	Bečov nad Teplou	Petschau			czech_republic
-	461114	56.4079	24.1944	Bauska	Bauske			n_europe
-	2768119	46.6881	15.9881	Bad Radkersburg	(Bad) Radkersburg			austria
-	2771408	47.5556	13.9319	Bad Mitterndorf	Mitterndorf			austria
-	2782055	47.6425	13.6161	Bad Goisern am Hallstättersee	Goisern			austria
-	461336	56.4598	22.9017	Auce	Alt-Autz			n_europe
-	2782272	48.1472	16.2949	Atzgersdorf (Wien)	Atzgersdorf			austria
-	2782315	48.2181	16.4831	Aspern (Wien)	Aspern			austria
-	2782319	48.5833	16.5000	Asparn an der Zaya	Asparn/Zaya			austria
-	2782321	47.5500	16.0833	Aspang-Markt	Aspang			austria
-	2782371	48.3646	14.0204	Aschach an der Donau	Aschach			austria
-	3079751	50.2239	12.1950	Aš	Asch			czech_republic
-	3079776	50.7824	15.2312	Antonínov (Josefův Důl u Jablonce nad Nisou)	Antoniwald			czech_republic
-	11903641	47.1139	15.4235	Andritz (Graz)	Andritz			austria
-	2782649	48.2515	13.2341	Altheim in Oberösterreich	Altheim			austria
+https://en.wikipedia.org/wiki/Dubulti	460221	56.9668	23.76798	Dubulti	Dubbeln	Latvia	LVA	
+	2769121	48.2017	16.3108	Breitensee (Wien)	Breitensee	Austria	AUT	
+	2779138	48.1963	16.3274	Braunhirschen (Wien)	Braunhirschen	Austria	AUT	
+https://en.wikipedia.org/wiki/Daugavpils	460413	55.8833	26.5333	Daugavpils	Dünaburg	Latvia	LVA	
+	2768119	46.6881	15.9881	Bad Radkersburg	(Bad) Radkersburg	Austria	AUT	
+	2771408	47.5556	13.9319	Bad Mitterndorf	Mitterndorf	Austria	AUT	
+	2782055	47.6425	13.6161	Bad Goisern am Hallstättersee	Goisern	Austria	AUT	
+https://en.wikipedia.org/wiki/C%C4%93sis	460570	57.3119	25.2746	Cēsis	Wenden	Latvia	LVA	
+	2782272	48.1472	16.2949	Atzgersdorf (Wien)	Atzgersdorf	Austria	AUT	
+	2782315	48.2181	16.4831	Aspern (Wien)	Aspern	Austria	AUT	
+	2782319	48.5833	16.5000	Asparn an der Zaya	Asparn/Zaya	Austria	AUT	
+	2782321	47.5500	16.0833	Aspang-Markt	Aspang	Austria	AUT	
+	2782371	48.3646	14.0204	Aschach an der Donau	Aschach	Austria	AUT	
+	11903641	47.1139	15.4235	Andritz (Graz)	Andritz	Austria	AUT	
+	2782649	48.2515	13.2341	Altheim in Oberösterreich	Altheim	Austria	AUT	
 	5099133	40.74399	-74.0324	altern. Hobocken	Hoboken			america
-	3334971	47.0833	15.4000	Algersdorf (Graz)	Neu-Algersdorf bei Graz			austria
-	3079819	50.7601	15.2862	Albrechtice v Jizerských horách	Albrechtsdorf [in Böhmen]			czech_republic
-	2624886	57.0480	9.9187	Ålborg	Aalborg			n_europe
-	2782860	48.6458	13.9711	Aigen-Schlägl	Aigen			austria
-	633679	60.4515	22.2687	Åbo, Turun	Abo			n_europe
-	3079843	50.3687	12.8182	Abertamy	Abertham			czech_republic
-	2625070	55.0443	9.4174	Åbenra; Aabenraa	Apenrade			n_europe
+	3334971	47.0833	15.4000	Algersdorf (Graz)	Neu-Algersdorf bei Graz	Austria	AUT	
+https://en.wikipedia.org/wiki/Bauska	461114	56.4079	24.1944	Bauska	Bauske	Latvia	LVA	
+	2782860	48.6458	13.9711	Aigen-Schlägl	Aigen	Austria	AUT	
+https://en.wikipedia.org/wiki/Auce	461336	56.4598	22.9017	Auce	Alt-Autz	Latvia	LVA	
+https://en.wikipedia.org/wiki/Riga	456172	56.9460	24.1059	Riga	Riga	Latvia	LVA	
 	3435910	-34.6132	-58.3772		Buenos Aires			america
 	3441575	-34.9033	-56.1882		Montevideo			america
 	3449433	-23.9608	-46.3336		Santos			america
@@ -563,224 +729,224 @@ https://de.wikipedia.org/wiki/Brody_(Ukraine)	711416	50.0879	25.1503	Brody	Brody
 	5812944	47.2529	-122.4443		Tacoma			america
 	6058560	42.9834	-81.2330		London (Ontario)			america
 	6138517	45.2708	-66.0562		Saint John (New Brunswick)			america
-	2760610	47.1833	14.7500		Zeltweg			austria
-	2760634	47.3231	12.7984		Zell am See			austria
-	2760854	47.4891	12.0617		Wörgl			austria
-	2760908	46.8333	14.8333		Wolfsberg			austria
-	2761096	47.7222	14.3276		Windischgarsten			austria
-	2761208	46.8833	15.5167		Wildon			austria
-	2761314	48.1333	15.1333		Wieselburg			austria
-	2761353	47.8049	16.2320		Wiener Neustadt			austria
-	2761369	48.2085	16.3721		Wien			austria
-	2761524	48.1667	14.0333		Wels			austria
-	2761531	47.2167	15.6167		Weiz			austria
-	2761538	48.7000	14.8833		Weitra			austria
-	2761543	48.7810	15.8135		Weitersfeld			austria
-	2761739	48.2074	16.2145		Weidlingau/Wien			austria
-	2761741	48.2910	16.3087		Weidling [heute Gem. Klosterneuburg]			austria
-	2762024	47.8685	16.0515		Waldegg			austria
-	2762077	47.9600	14.7744		Waidhofen an der Ybbs			austria
-	2762079	48.8167	15.2833		Waidhofen an der Thaya			austria
-	2762150	48.1211	16.3404		Vösendorf			austria
-	2762157	47.1106	14.1694		Murau			austria
-	2762315	46.6622	14.6344		Völkermarkt			austria
-	2762326	47.0500	15.1000		Voitsberg			austria
-	2762341	48.0025	13.4838		Vöcklamarkt			austria
-	2762343	48.0028	13.6565		Vöcklabruck			austria
-	2762372	46.6103	13.8558		Villach			austria
-	2762525	47.2000	14.4500		Unzmarkt			austria
-	2762908	47.9723	14.2647		Grünburg Grünberg			austria
-	2763209	47.2253	15.2362		Übelbach			austria
-	2763332	47.4252	15.0068		Trofaiach			austria
-	2763700	47.8500	16.2333		Theresienfeld			austria
-	2763749	47.8414	13.2533		Thalgau			austria
-	2763826	47.9500	16.2833		Teesdorf			austria
-	2763888	47.95	16.30		Tattendorf			austria
-	2764279	48.3833	16.2167		Stockerau			austria
-	2764359	48.0427	14.4213		Steyr			austria
-	2764525	47.9708	14.2694		Steinbach an der Steyr			austria
-	2764556	48.0697	15.0480		Steinakirchen am Forst			austria
-	2764706	46.8944	15.2672		Stainz			austria
-	2764783	48.3656	15.4142		Spitz			austria
-	2764786	46.8000	13.5000		Spittal an der Drau			austria
-	2765080	48.0434	14.3094		Sierning			austria
-	2765347	48.2734	14.5847		Schwertberg			austria
-	2765388	48.1333	16.4667		Schwechat			austria
-	2765390	47.3517	11.7101		Schwaz			austria
-	2765538	48.0694	16.5796		Schwadorf			austria
-	2765602	48.7833	15.0667		Schrems			austria
-	2765637	47.6568	15.8725		Schottwien			austria
-	2765961	47.3929	13.6870		Schladming			austria
-	2766047	47.1504	14.4128		Scheifling			austria
-	2766080	48.0047	15.1682		Scheibbs			austria
-	2766155	48.4529	13.4372		Schärding			austria
-	2766429	48.2000	15.6333		Sankt Pölten			austria
-	2766725	47.6863	14.6171		Sankt Gallen (Steiermark)			austria
-	2766824	47.7994	13.0440		Salzburg			austria
-	2767034	47.5253	14.3575		Rottenmann			austria
-	2767471	48.2112	13.4886		Ried			austria
-	2767484	48.3024	13.6349		Riedau			austria
-	2767521	48.7571	15.9549		Retz			austria
-	2768098	47.3833	13.4500		Radstadt			austria
-	2768232	48.2077	16.1754		Purkersdorf			austria
-	2768348	48.1833	16.0833		Pressbaum			austria
-	2768468	47.9582	16.0948		Pottenstein			austria
-	2768472	47.9000	16.3833		Pottendorf			austria
-	2768546	47.2167	14.5833		Pöls			austria
-	2768582	47.3000	15.8333		Pöllau			austria
-	2768616	48.3173	15.2041		Pöggstall			austria
-	2768627	48.2000	15.2000		Pöchlarn			austria
-	2768746	47.7167	16.1833		Pitten			austria
-	2768996	48.3453	13.7721		Peuerbach			austria
-	2769009	47.9602	14.0169		Pettenbach			austria
-	2769068	47.8976	15.9602		Pernitz			austria
-	2769105	48.2500	14.6333		Perg			austria
-	2769110	48.1194	16.2661		Perchtoldsdorf			austria
-	2769865	48.4640	14.2228		Oberneukirchen			austria
-	2770634	48.0312	14.3377		Letten (Sierning/Neuzeug)			austria
-	2770711	47.7210	16.0811		Neunkirchen			austria
-	2770720	47.0740	14.4273		Neumarkt in Steiermark			austria
-	2770722	48.4282	14.4844		Neumarkt im Mühlkreis			austria
-	2770730	48.1975	15.9022		Neulengbach			austria
-	2770787	48.4833	13.9965		Neufelden			austria
-	2770993	47.6066	15.6723		Mürzzuschlag			austria
-	2771010	46.7081	15.7747		Mureck			austria
-	2771277	47.8565	13.3491		Mondsee			austria
-	2771299	47.8872	14.2582		Molln			austria
-	2771335	48.0861	16.2892		Mödling			austria
-	2771557	48.5700	16.5767		Mistelbach			austria
-	2771682	48.2274	15.3319		Melk			austria
-	2771708	48.2081	13.4353		Mehrnbach [bei Ried]			austria
-	2771760	48.2411	14.5196		Mauthausen			austria
-	2771779	48.1917	13.1334		Mauerkirchen			austria
-	2771868	48.4519	16.5983		Bad Pirawarth			austria
-	2771970	48.2622	16.9105		Marchegg			austria
-	2772186	47.8612	15.0300		Lunz			austria
-	2772400	48.3064	14.2861		Linz			austria
-	2772480	47.5667	14.2333		Liezen			austria
-	2772484	48.1333	16.3000		Liesing			austria
-	2772505	46.8289	12.7690		Lienz			austria
-	2772561	47.2483	9.6093		Feldkirch-Levis			austria
-	2772645	47.9280	16.2165		Leobersdorf			austria
-	2772649	47.3765	15.0914		Leoben			austria
-	2772753	46.7816	15.5384		Leibnitz			austria
-	2772810	48.0683	16.3561		Laxenburg			austria
-	2772998	48.3043	16.3614		Langenzersdorf			austria
-	2773010	48.4667	15.6667		Langenlois			austria
-	2773110	48.0928	13.8745		Lambach			austria
-	2773229	48.7167	16.3833		Laa an der Thaya			austria
-	2773300	47.5833	12.1667		Kufstein			austria
-	2773493	48.2674	14.8065		Bad Kreuzen			austria
-	2773538	48.0529	14.1292		Kremsmünster			austria
-	2773549	48.4092	15.6142		Krems			austria
-	2773698	48.3500	16.3333		Korneuburg			austria
-	2773848	47.0667	15.0833		Köflach			austria
-	2773887	47.2167	14.8167		Knittelfeld			austria
-	2773913	48.3052	16.3252		Klosterneuburg			austria
-	2774326	46.6247	14.3053		Klagenfurt			austria
-	2774347	47.4464	12.3922		Kitzbühel			austria
-	2774391	48.2942	13.2820		Kirchdorf am Inn			austria
-	2774401	48.0389	13.11519		Kirchberg bei Mattighofen			austria
-	2774437	47.5000	15.4500		Kindberg			austria
-	2774443	48.1010	15.4085		Kilb			austria
-	2774548	48.1115	14.1939		Kematen an der Krems			austria
-	2774773	47.4446	15.2933		Kapfenberg			austria
-	2774851	48.1165	16.1996		Kaltenleutgeben			austria
-	2775020	47.1667	14.6667		Judenburg			austria
-	2775197	47.5053	14.1016		Irdning			austria
-	2775220	47.2627	11.3945		Innsbruck			austria
-	2775338	47.2333	11.4167		Igls/Innsbruck			austria
-	2775516	48.6627	15.6566		Horn			austria
-	2775541	47.4498	12.1566		Hopfgarten			austria
-	2775620	48.3789	15.6907		Hollenburg			austria
-	2776358	48.0861	16.2481		Hinterbrühl			austria
-	2776401	48.0833	16.4333		Himberg			austria
-	2776433	47.6064	14.7450		Hieflau			austria
-	2776470	48.2814	15.6943		Herzogenburg			austria
-	2776603	48.8667	15.1167		Heidenreichstein			austria
-	2776721	48.5757	14.0398		Haslach			austria
-	2776801	47.2833	15.9667		Hartberg			austria
-	2776872	48.8500	15.8500		Hardegg			austria
-	2776943	47.5623	13.6491		Hallstatt			austria
-	2776951	47.6833	13.1000		Hallein			austria
-	2776981	48.0339	15.7741		Hainfeld			austria
-	2776988	48.1463	16.9450		Hainburg an der Donau			austria
-	2777154	48.1842	13.6437		Haag am Hausruck			austria
-	2777164	48.1136	14.5675		Haag (Niederösterreich)			austria
-	2777196	47.8760	15.8888		Gutenstein			austria
-	2777279	48.0454	16.2771		Gumpoldskirchen			austria
-	2777836	48.2028	16.5508		Groß-Enzersdorf			austria
-	2777927	47.4427	13.9012		Gröbming			austria
-	2777972	48.2333	13.8333		Grieskirchen			austria
-	2778039	48.2286	14.8588		Grein			austria
-	2778067	47.0667	15.4500		Graz			austria
-	2778079	47.1167	15.3167		Gratwein			austria
-	2778133	48.3803	14.1919		Gramastetten			austria
-	2778427	46.8731	15.8253		Gnas			austria
-	2778436	47.9184	13.7993		Gmunden			austria
-	2778439	48.7683	14.9808		Gmünd			austria
-	2778455	47.6749	15.9389		Gloggnitz			austria
-	2778478	47.1056	15.7101		Gleisdorf			austria
-	2778573	48.0978	16.2348		Gießhübl			austria
-	2778949	47.9290	15.0882		Gaming			austria
-	2779029	47.9628	16.1937		Gainfarn			austria
-	2779074	48.0536	16.2000		Gaaden			austria
-	2779202	47.2667	15.3167		Frohnleiten			austria
-	2779229	46.9553	14.4058		Friesach			austria
-	2779243	47.4333	16.0500		Friedberg/Stmk			austria
-	2779275	48.5110	14.5045		Freistadt			austria
-	2779378	47.9833	13.4167		Frankenmarkt			austria
-	2779450	47.2080	14.6759		Fohnsdorf			austria
-	2779663	47.8816	16.2421		Felixdorf			austria
-	2779669	46.7237	14.0958		Feldkirchen			austria
-	2779674	47.2331	9.6000		Feldkirch			austria
-	2779685	46.9531	15.8883		Feldbach			austria
-	2779767	46.9400	16.0081		Fehring			austria
-	2779947	48.5333	16.3500		Ernstbrunn			austria
-	2779973	47.7272	16.2144		Bad Erlach			austria
-	2779982	47.6833	12.1833		Erl/Tirol			austria
-	2780017	48.0850	16.6083		Enzersdorf an der Fischa			austria
-	2780048	48.2135	14.4761		Enns			austria
-	2780190	47.8457	16.5233		Eisenstadt			austria
-	2780207	47.5333	14.8833		Eisenerz			austria
-	2780283	46.6867	15.2472		Eibiswald			austria
-	2780316	46.7242	15.5867		Ehrenhausen			austria
-	2780360	48.6389	15.8190		Eggenburg			austria
-	2780394	48.3087	14.0223		Eferding			austria
-	2780547	47.8072	13.7790		Ebensee			austria
-	2780553	47.8774	16.3673		Ebenfurth			austria
-	2780578	48.2389	14.3318		Ebelsberg			austria
-	2780741	47.4143	9.7420		Dornbirn			austria
-	2780850	47.3667	15.0667		Donawitz			austria
-	2781023	46.8153	15.2222		Deutschlandsberg			austria
-	2781035	47.1985	15.3362		Deutschfeistritz			austria
-	2781310	48.4685	13.4607		Brunnenthal			austria
-	2781321	48.1070	16.2847		Brunn am Gebirge			austria
-	2781371	47.4167	15.2833		Bruck an der Mur			austria
-	2781373	48.0242	16.7757		Bruck an der Leitha			austria
-	2781503	47.5031	9.7471		Bregenz			austria
-	2781520	48.2563	13.0434		Braunau am Inn			austria
-	2781680	47.1548	9.8226		Bludenz			austria
-	2781692	48.1275	14.9865		Blindenmarkt			austria
-	2781735	47.4167	13.2167		Bischofshofen			austria
-	2781837	47.9457	16.1097		Berndorf			austria
-	2782043	47.9653	16.2136		Bad Vöslau			austria
-	2782052	47.7111	13.6189		Bad Ischl			austria
-	2782054	48.0383	14.2077		Bad Hall			austria
-	2782056	46.8756	15.9086		Bad Gleichenberg			austria
-	2782058	47.1155	13.1347		Bad Gastein			austria
-	2782067	48.0054	16.2326		Baden bei Wien			austria
-	2782070	47.6100	13.7824		Bad Aussee			austria
-	2782278	48.2912	15.9061		Atzenbrugg			austria
-	2782555	48.1229	14.8721		Amstetten			austria
-	2782724	47.6384	13.7628		Altaussee			austria
-	2782967	47.5421	15.2390		Aflenz			austria
-	2782979	47.5754	14.4608		Admont			austria
-	3322282	48.3017	16.6744		Gänserndorf			austria
-	7871945	48.1157	16.6140		Fischamend			austria
-	7873458	46.6791	15.4032		Arnfels			austria
-	9034679	47.0621	16.0835		Fürstenfeld			austria
-	2615876	55.3959	10.3883		Odense			n_europe
-	2624652	56.1567	10.2108		Aarhus			n_europe
-	456172	56.9460	24.1059		Riga			n_europe
-	590031	59.3772	28.1903		Narva			n_europe
+	2760610	47.1833	14.7500		Zeltweg	Austria	AUT	
+	2760634	47.3231	12.7984		Zell am See	Austria	AUT	
+	2760854	47.4891	12.0617		Wörgl	Austria	AUT	
+	2760908	46.8333	14.8333		Wolfsberg	Austria	AUT	
+	2761096	47.7222	14.3276		Windischgarsten	Austria	AUT	
+	2761208	46.8833	15.5167		Wildon	Austria	AUT	
+	2761314	48.1333	15.1333		Wieselburg	Austria	AUT	
+	2761353	47.8049	16.2320		Wiener Neustadt	Austria	AUT	
+	2761369	48.2085	16.3721		Wien	Austria	AUT	
+	2761524	48.1667	14.0333		Wels	Austria	AUT	
+	2761531	47.2167	15.6167		Weiz	Austria	AUT	
+	2761538	48.7000	14.8833		Weitra	Austria	AUT	
+	2761543	48.7810	15.8135		Weitersfeld	Austria	AUT	
+	2761739	48.2074	16.2145		Weidlingau/Wien	Austria	AUT	
+	2761741	48.2910	16.3087		Weidling [heute Gem. Klosterneuburg]	Austria	AUT	
+	2762024	47.8685	16.0515		Waldegg	Austria	AUT	
+	2762077	47.9600	14.7744		Waidhofen an der Ybbs	Austria	AUT	
+	2762079	48.8167	15.2833		Waidhofen an der Thaya	Austria	AUT	
+	2762150	48.1211	16.3404		Vösendorf	Austria	AUT	
+	2762157	47.1106	14.1694		Murau	Austria	AUT	
+	2762315	46.6622	14.6344		Völkermarkt	Austria	AUT	
+	2762326	47.0500	15.1000		Voitsberg	Austria	AUT	
+	2762341	48.0025	13.4838		Vöcklamarkt	Austria	AUT	
+	2762343	48.0028	13.6565		Vöcklabruck	Austria	AUT	
+	2762372	46.6103	13.8558		Villach	Austria	AUT	
+	2762525	47.2000	14.4500		Unzmarkt	Austria	AUT	
+	2762908	47.9723	14.2647		Grünburg Grünberg	Austria	AUT	
+	2763209	47.2253	15.2362		Übelbach	Austria	AUT	
+	2763332	47.4252	15.0068		Trofaiach	Austria	AUT	
+	2763700	47.8500	16.2333		Theresienfeld	Austria	AUT	
+	2763749	47.8414	13.2533		Thalgau	Austria	AUT	
+	2763826	47.9500	16.2833		Teesdorf	Austria	AUT	
+	2763888	47.95	16.30		Tattendorf	Austria	AUT	
+	2764279	48.3833	16.2167		Stockerau	Austria	AUT	
+	2764359	48.0427	14.4213		Steyr	Austria	AUT	
+	2764525	47.9708	14.2694		Steinbach an der Steyr	Austria	AUT	
+	2764556	48.0697	15.0480		Steinakirchen am Forst	Austria	AUT	
+	2764706	46.8944	15.2672		Stainz	Austria	AUT	
+	2764783	48.3656	15.4142		Spitz	Austria	AUT	
+	2764786	46.8000	13.5000		Spittal an der Drau	Austria	AUT	
+	2765080	48.0434	14.3094		Sierning	Austria	AUT	
+	2765347	48.2734	14.5847		Schwertberg	Austria	AUT	
+	2765388	48.1333	16.4667		Schwechat	Austria	AUT	
+	2765390	47.3517	11.7101		Schwaz	Austria	AUT	
+	2765538	48.0694	16.5796		Schwadorf	Austria	AUT	
+	2765602	48.7833	15.0667		Schrems	Austria	AUT	
+	2765637	47.6568	15.8725		Schottwien	Austria	AUT	
+	2765961	47.3929	13.6870		Schladming	Austria	AUT	
+	2766047	47.1504	14.4128		Scheifling	Austria	AUT	
+	2766080	48.0047	15.1682		Scheibbs	Austria	AUT	
+	2766155	48.4529	13.4372		Schärding	Austria	AUT	
+	2766429	48.2000	15.6333		Sankt Pölten	Austria	AUT	
+	2766725	47.6863	14.6171		Sankt Gallen (Steiermark)	Austria	AUT	
+	2766824	47.7994	13.0440		Salzburg	Austria	AUT	
+	2767034	47.5253	14.3575		Rottenmann	Austria	AUT	
+	2767471	48.2112	13.4886		Ried	Austria	AUT	
+	2767484	48.3024	13.6349		Riedau	Austria	AUT	
+	2767521	48.7571	15.9549		Retz	Austria	AUT	
+	2768098	47.3833	13.4500		Radstadt	Austria	AUT	
+	2768232	48.2077	16.1754		Purkersdorf	Austria	AUT	
+	2768348	48.1833	16.0833		Pressbaum	Austria	AUT	
+	2768468	47.9582	16.0948		Pottenstein	Austria	AUT	
+	2768472	47.9000	16.3833		Pottendorf	Austria	AUT	
+	2768546	47.2167	14.5833		Pöls	Austria	AUT	
+	2768582	47.3000	15.8333		Pöllau	Austria	AUT	
+	2768616	48.3173	15.2041		Pöggstall	Austria	AUT	
+	2768627	48.2000	15.2000		Pöchlarn	Austria	AUT	
+	2768746	47.7167	16.1833		Pitten	Austria	AUT	
+	2768996	48.3453	13.7721		Peuerbach	Austria	AUT	
+	2769009	47.9602	14.0169		Pettenbach	Austria	AUT	
+	2769068	47.8976	15.9602		Pernitz	Austria	AUT	
+	2769105	48.2500	14.6333		Perg	Austria	AUT	
+	2769110	48.1194	16.2661		Perchtoldsdorf	Austria	AUT	
+	2769865	48.4640	14.2228		Oberneukirchen	Austria	AUT	
+	2770634	48.0312	14.3377		Letten (Sierning/Neuzeug)	Austria	AUT	
+	2770711	47.7210	16.0811		Neunkirchen	Austria	AUT	
+	2770720	47.0740	14.4273		Neumarkt in Steiermark	Austria	AUT	
+	2770722	48.4282	14.4844		Neumarkt im Mühlkreis	Austria	AUT	
+	2770730	48.1975	15.9022		Neulengbach	Austria	AUT	
+	2770787	48.4833	13.9965		Neufelden	Austria	AUT	
+	2770993	47.6066	15.6723		Mürzzuschlag	Austria	AUT	
+	2771010	46.7081	15.7747		Mureck	Austria	AUT	
+	2771277	47.8565	13.3491		Mondsee	Austria	AUT	
+	2771299	47.8872	14.2582		Molln	Austria	AUT	
+	2771335	48.0861	16.2892		Mödling	Austria	AUT	
+	2771557	48.5700	16.5767		Mistelbach	Austria	AUT	
+	2771682	48.2274	15.3319		Melk	Austria	AUT	
+	2771708	48.2081	13.4353		Mehrnbach [bei Ried]	Austria	AUT	
+	2771760	48.2411	14.5196		Mauthausen	Austria	AUT	
+	2771779	48.1917	13.1334		Mauerkirchen	Austria	AUT	
+	2771868	48.4519	16.5983		Bad Pirawarth	Austria	AUT	
+	2771970	48.2622	16.9105		Marchegg	Austria	AUT	
+	2772186	47.8612	15.0300		Lunz	Austria	AUT	
+	2772400	48.3064	14.2861		Linz	Austria	AUT	
+	2772480	47.5667	14.2333		Liezen	Austria	AUT	
+	2772484	48.1333	16.3000		Liesing	Austria	AUT	
+	2772505	46.8289	12.7690		Lienz	Austria	AUT	
+	2772561	47.2483	9.6093		Feldkirch-Levis	Austria	AUT	
+	2772645	47.9280	16.2165		Leobersdorf	Austria	AUT	
+	2772649	47.3765	15.0914		Leoben	Austria	AUT	
+	2772753	46.7816	15.5384		Leibnitz	Austria	AUT	
+	2772810	48.0683	16.3561		Laxenburg	Austria	AUT	
+	2772998	48.3043	16.3614		Langenzersdorf	Austria	AUT	
+	2773010	48.4667	15.6667		Langenlois	Austria	AUT	
+	2773110	48.0928	13.8745		Lambach	Austria	AUT	
+	2773229	48.7167	16.3833		Laa an der Thaya	Austria	AUT	
+	2773300	47.5833	12.1667		Kufstein	Austria	AUT	
+	2773493	48.2674	14.8065		Bad Kreuzen	Austria	AUT	
+	2773538	48.0529	14.1292		Kremsmünster	Austria	AUT	
+	2773549	48.4092	15.6142		Krems	Austria	AUT	
+	2773698	48.3500	16.3333		Korneuburg	Austria	AUT	
+	2773848	47.0667	15.0833		Köflach	Austria	AUT	
+	2773887	47.2167	14.8167		Knittelfeld	Austria	AUT	
+	2773913	48.3052	16.3252		Klosterneuburg	Austria	AUT	
+	2774326	46.6247	14.3053		Klagenfurt	Austria	AUT	
+	2774347	47.4464	12.3922		Kitzbühel	Austria	AUT	
+	2774391	48.2942	13.2820		Kirchdorf am Inn	Austria	AUT	
+	2774401	48.0389	13.11519		Kirchberg bei Mattighofen	Austria	AUT	
+	2774437	47.5000	15.4500		Kindberg	Austria	AUT	
+	2774443	48.1010	15.4085		Kilb	Austria	AUT	
+	2774548	48.1115	14.1939		Kematen an der Krems	Austria	AUT	
+	2774773	47.4446	15.2933		Kapfenberg	Austria	AUT	
+	2774851	48.1165	16.1996		Kaltenleutgeben	Austria	AUT	
+	2775020	47.1667	14.6667		Judenburg	Austria	AUT	
+	2775197	47.5053	14.1016		Irdning	Austria	AUT	
+	2775220	47.2627	11.3945		Innsbruck	Austria	AUT	
+	2775338	47.2333	11.4167		Igls/Innsbruck	Austria	AUT	
+	2775516	48.6627	15.6566		Horn	Austria	AUT	
+	2775541	47.4498	12.1566		Hopfgarten	Austria	AUT	
+	2775620	48.3789	15.6907		Hollenburg	Austria	AUT	
+	2776358	48.0861	16.2481		Hinterbrühl	Austria	AUT	
+	2776401	48.0833	16.4333		Himberg	Austria	AUT	
+	2776433	47.6064	14.7450		Hieflau	Austria	AUT	
+	2776470	48.2814	15.6943		Herzogenburg	Austria	AUT	
+	2776603	48.8667	15.1167		Heidenreichstein	Austria	AUT	
+	2776721	48.5757	14.0398		Haslach	Austria	AUT	
+	2776801	47.2833	15.9667		Hartberg	Austria	AUT	
+	2776872	48.8500	15.8500		Hardegg	Austria	AUT	
+	2776943	47.5623	13.6491		Hallstatt	Austria	AUT	
+	2776951	47.6833	13.1000		Hallein	Austria	AUT	
+	2776981	48.0339	15.7741		Hainfeld	Austria	AUT	
+	2776988	48.1463	16.9450		Hainburg an der Donau	Austria	AUT	
+	2777154	48.1842	13.6437		Haag am Hausruck	Austria	AUT	
+	2777164	48.1136	14.5675		Haag (Niederösterreich)	Austria	AUT	
+	2777196	47.8760	15.8888		Gutenstein	Austria	AUT	
+	2777279	48.0454	16.2771		Gumpoldskirchen	Austria	AUT	
+	2777836	48.2028	16.5508		Groß-Enzersdorf	Austria	AUT	
+	2777927	47.4427	13.9012		Gröbming	Austria	AUT	
+	2777972	48.2333	13.8333		Grieskirchen	Austria	AUT	
+	2778039	48.2286	14.8588		Grein	Austria	AUT	
+	2778067	47.0667	15.4500		Graz	Austria	AUT	
+	2778079	47.1167	15.3167		Gratwein	Austria	AUT	
+	2778133	48.3803	14.1919		Gramastetten	Austria	AUT	
+	2778427	46.8731	15.8253		Gnas	Austria	AUT	
+	2778436	47.9184	13.7993		Gmunden	Austria	AUT	
+	2778439	48.7683	14.9808		Gmünd	Austria	AUT	
+	2778455	47.6749	15.9389		Gloggnitz	Austria	AUT	
+	2778478	47.1056	15.7101		Gleisdorf	Austria	AUT	
+	2778573	48.0978	16.2348		Gießhübl	Austria	AUT	
+	2778949	47.9290	15.0882		Gaming	Austria	AUT	
+	2779029	47.9628	16.1937		Gainfarn	Austria	AUT	
+	2779074	48.0536	16.2000		Gaaden	Austria	AUT	
+	2779202	47.2667	15.3167		Frohnleiten	Austria	AUT	
+	2779229	46.9553	14.4058		Friesach	Austria	AUT	
+	2779243	47.4333	16.0500		Friedberg/Stmk	Austria	AUT	
+	2779275	48.5110	14.5045		Freistadt	Austria	AUT	
+	2779378	47.9833	13.4167		Frankenmarkt	Austria	AUT	
+	2779450	47.2080	14.6759		Fohnsdorf	Austria	AUT	
+	2779663	47.8816	16.2421		Felixdorf	Austria	AUT	
+	2779669	46.7237	14.0958		Feldkirchen	Austria	AUT	
+	2779674	47.2331	9.6000		Feldkirch	Austria	AUT	
+	2779685	46.9531	15.8883		Feldbach	Austria	AUT	
+	2779767	46.9400	16.0081		Fehring	Austria	AUT	
+	2779947	48.5333	16.3500		Ernstbrunn	Austria	AUT	
+	2779973	47.7272	16.2144		Bad Erlach	Austria	AUT	
+	2779982	47.6833	12.1833		Erl/Tirol	Austria	AUT	
+	2780017	48.0850	16.6083		Enzersdorf an der Fischa	Austria	AUT	
+	2780048	48.2135	14.4761		Enns	Austria	AUT	
+	2780190	47.8457	16.5233		Eisenstadt	Austria	AUT	
+	2780207	47.5333	14.8833		Eisenerz	Austria	AUT	
+	2780283	46.6867	15.2472		Eibiswald	Austria	AUT	
+	2780316	46.7242	15.5867		Ehrenhausen	Austria	AUT	
+	2780360	48.6389	15.8190		Eggenburg	Austria	AUT	
+	2780394	48.3087	14.0223		Eferding	Austria	AUT	
+	2780547	47.8072	13.7790		Ebensee	Austria	AUT	
+	2780553	47.8774	16.3673		Ebenfurth	Austria	AUT	
+	2780578	48.2389	14.3318		Ebelsberg	Austria	AUT	
+	2780741	47.4143	9.7420		Dornbirn	Austria	AUT	
+	2780850	47.3667	15.0667		Donawitz	Austria	AUT	
+	2781023	46.8153	15.2222		Deutschlandsberg	Austria	AUT	
+	2781035	47.1985	15.3362		Deutschfeistritz	Austria	AUT	
+	2781310	48.4685	13.4607		Brunnenthal	Austria	AUT	
+	2781321	48.1070	16.2847		Brunn am Gebirge	Austria	AUT	
+	2781371	47.4167	15.2833		Bruck an der Mur	Austria	AUT	
+	2781373	48.0242	16.7757		Bruck an der Leitha	Austria	AUT	
+	2781503	47.5031	9.7471		Bregenz	Austria	AUT	
+	2781520	48.2563	13.0434		Braunau am Inn	Austria	AUT	
+	2781680	47.1548	9.8226		Bludenz	Austria	AUT	
+	2781692	48.1275	14.9865		Blindenmarkt	Austria	AUT	
+	2781735	47.4167	13.2167		Bischofshofen	Austria	AUT	
+	2781837	47.9457	16.1097		Berndorf	Austria	AUT	
+	2782043	47.9653	16.2136		Bad Vöslau	Austria	AUT	
+	2782052	47.7111	13.6189		Bad Ischl	Austria	AUT	
+	2782054	48.0383	14.2077		Bad Hall	Austria	AUT	
+	2782056	46.8756	15.9086		Bad Gleichenberg	Austria	AUT	
+	2782058	47.1155	13.1347		Bad Gastein	Austria	AUT	
+	2782067	48.0054	16.2326		Baden bei Wien	Austria	AUT	
+	2782070	47.6100	13.7824		Bad Aussee	Austria	AUT	
+	2782278	48.2912	15.9061		Atzenbrugg	Austria	AUT	
+	2782555	48.1229	14.8721		Amstetten	Austria	AUT	
+	2782724	47.6384	13.7628		Altaussee	Austria	AUT	
+	2782967	47.5421	15.2390		Aflenz	Austria	AUT	
+	2782979	47.5754	14.4608		Admont	Austria	AUT	
+	3322282	48.3017	16.6744		Gänserndorf	Austria	AUT	
+	7871945	48.1157	16.6140		Fischamend	Austria	AUT	
+	7873458	46.6791	15.4032		Arnfels	Austria	AUT	
+	9034679	47.0621	16.0835		Fürstenfeld	Austria	AUT	
+https://en.wikipedia.org/wiki/Vilnius	593116	54.6892	25.2798	Vilnius	Wilna	Lithuania	LTU	
+https://en.wikipedia.org/wiki/Palanga	596238	55.9175	21.0686	Palanga	Polangen	Lithuania	LTU	
+https://en.wikipedia.org/wiki/Kaunas	598316	54.9027	23.9096	Kowno	Kaunas	Lithuania	LTU	
+https://en.wikipedia.org/wiki/Klaip%C4%97da	598098	55.7068	21.1391	Klaipėda	Memel	Lithuania	LTU	
