@@ -1,4 +1,4 @@
-export default async function fetchAndParsTSV(url) {
+export default async function fetchAndParseTSV(url) {
   try {
     const response = await fetch(url);
     const data = await response.text();

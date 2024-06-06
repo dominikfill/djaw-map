@@ -1,6 +1,7 @@
-import locations from './data/djaw-all-locations.tsv?url';
+import locations from './res/data/locations.tsv?url';
+import tiff from './res/czoernig_1855_ethnographic-map-of-austrian-monarchy.tif?url';
 import renderPopupContent from './popup/popup.js';
-import fetchAndParsTSV from './fetchData.js';
+import fetchAndParseTSV from './fetchData.js';
 import template_url from './popup/template.html?url';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
@@ -25,8 +26,24 @@ var map = L.map('map').fitBounds([
 ]);
 CartoDB_PositronNoLabels.addTo(map);
 
+var url_to_geotiff_file = 'https://contabo.joaopimentel.com/img/tif/1106.tif';
+
+fetch(tiff)
+  .then((res) => res.arrayBuffer())
+  .then((arrayBuffer) => {
+    parseGeoraster(arrayBuffer).then((georaster) => {
+      const layer = new GeoRasterLayer({
+        georaster: georaster,
+        opacity: 1,
+        resolution: 512, // optional parameter for adjusting display resolution
+      }).addTo(map);
+
+      map.fitBounds(layer.getBounds());
+    });
+  });
+
 async function populateMap() {
-  const data = await fetchAndParsTSV(locations);
+  const data = await fetchAndParseTSV(locations);
   const response = await fetch(template_url);
   const template = await response.text();
 
