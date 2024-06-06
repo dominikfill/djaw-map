@@ -48,8 +48,8 @@ var baseLayers = {
 };
 
 var overlayLayers = {
-  'Second Layer': Czoernig_1855_Ethnographic_Austrian_Monarchy,
-  'Third Layer': Deutschland_XIII_Jahrhundert,
+  'Czoernig 1855': Czoernig_1855_Ethnographic_Austrian_Monarchy,
+  'Deutschland 18. Jhdt.': Deutschland_XIII_Jahrhundert,
 };
 
 L.control.layers(baseLayers, overlayLayers).addTo(map);

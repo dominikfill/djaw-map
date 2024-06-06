@@ -2,7 +2,7 @@
 <html>
   <head>
     <style>
-      .popup-body {
+      .sidebar-body {
         font-family: Verdana, sans-serif;
         background-color: #f0f0f0;
         display: flex;
@@ -10,9 +10,10 @@
         align-items: center;
         height: 100vh;
         margin: 0;
+        overflow-y: scroll;
       }
 
-      #popup {
+      #sb {
         box-sizing: border-box;
         display: flex;
         flex-direction: column;
@@ -24,6 +25,7 @@
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         width: 300px;
         padding: 15px;
+        overflow-y: scroll;
       }
 
       p.src {
@@ -74,20 +76,21 @@
     </style>
   </head>
 
-  <body class="popup-body">
-    <div id="popup">
+  <body class="sidebar-body">
+    <div id="sb">
       <p class="title"><b>Quellen</b></p>
       <p class="src">{{{src}}}</p>
       {{^src}}
       <p class="src">-</p>
       {{/src}}
       <p class="title"><b>Quote</b></p>
+      {{#src_link}}
+      <a id="popup-link" href="{{{src_link}}}" target="_blank">source</a>
+      {{/src_link}}
       <p class="src">{{{src_quote}}}</p>
       {{^src_quote}}
       <p class="src">-</p>
-      {{/src_quote}} {{#src_link}}
-      <a id="popup-link" href="{{{src_link}}}" target="_blank">source</a>
-      {{/src_link}}
+      {{/src_quote}}
     </div>
   </body>
 </html>
