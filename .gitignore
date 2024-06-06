@@ -2,5 +2,3 @@ get-data/__pycache__
 get-data/.vscode
 get-data/key.py
 map/dist
-popup.html
-package-lock.json

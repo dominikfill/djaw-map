@@ -1,5 +1,4 @@
 import locations from './res/data/locations.tsv?url';
-import tiff from './res/czoernig_1855_ethnographic-map-of-austrian-monarchy.tif?url';
 import renderPopupContent from './popup/popup.js';
 import fetchAndParseTSV from './fetchData.js';
 import template_url from './popup/template.html?url';
@@ -14,6 +13,20 @@ var CartoDB_PositronNoLabels = L.tileLayer(
   }
 );
 
+var Czoernig_1855_Ethnographic_Austrian_Monarchy = L.tileLayer(
+  'https://warper.wmflabs.org/maps/tile/4000/{z}/{x}/{y}.png ',
+  {
+    opacity: 0.8,
+  }
+);
+
+var Deutschland_XIII_Jahrhundert = L.tileLayer(
+  'https://warper.wmflabs.org/maps/tile/6882/{z}/{x}/{y}.png',
+  {
+    opacity: 0.8,
+  }
+);
+
 /*
 ISO3 	Country Name 	lat_min 	lat_max 	lon_min 	lon_max
 UT      Austria 	    46.3722761 	49.0205305 	9.5307487 	17.160776
@@ -24,23 +37,20 @@ var map = L.map('map').fitBounds([
   [46.3722761, 9.5307487],
   [51.0557036, 18.859216],
 ]);
+
 CartoDB_PositronNoLabels.addTo(map);
 
-var url_to_geotiff_file = 'https://contabo.joaopimentel.com/img/tif/1106.tif';
+// Add the layers to the map
+var baseLayers = {
+  'Base Layer': CartoDB_PositronNoLabels,
+};
 
-fetch(tiff)
-  .then((res) => res.arrayBuffer())
-  .then((arrayBuffer) => {
-    parseGeoraster(arrayBuffer).then((georaster) => {
-      const layer = new GeoRasterLayer({
-        georaster: georaster,
-        opacity: 1,
-        resolution: 512, // optional parameter for adjusting display resolution
-      }).addTo(map);
+var overlayLayers = {
+  'Second Layer': Czoernig_1855_Ethnographic_Austrian_Monarchy,
+  'Third Layer': Deutschland_XIII_Jahrhundert,
+};
 
-      map.fitBounds(layer.getBounds());
-    });
-  });
+L.control.layers(baseLayers, overlayLayers).addTo(map);
 
 async function populateMap() {
   const data = await fetchAndParseTSV(locations);
