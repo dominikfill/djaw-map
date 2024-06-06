@@ -1,7 +1,9 @@
 import locations from '../../res/data/locations.tsv?url';
 import renderPopupContent from '../popup/popup.js';
+import renderSidebarContent from '../sidebar/sidebar.js';
 import fetchAndParseTSV from '../utils/fetchData.js';
-import template_url from '../popup/popup-template.html?url';
+import popupTemplate from '../popup/popup-template.html?url';
+import sidebarTemplate from '../sidebar/sidebar-template.html?url';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
@@ -54,21 +56,45 @@ L.control.layers(baseLayers, overlayLayers).addTo(map);
 
 async function populateMap() {
   const data = await fetchAndParseTSV(locations);
-  const response = await fetch(template_url);
+  const response = await fetch(popupTemplate);
   const template = await response.text();
 
-  const promises = data.map((row) =>
-    renderPopupContent(template, row).then((popup) => {
+  const response2 = await fetch(sidebarTemplate);
+  const template2 = await response2.text();
+
+  const promises = data.map((row) => {
+    return renderPopupContent(template, row).then((popup) => {
       var marker = L.marker([row.lat, row.lon], {
         opacity: 1,
       }).bindPopup(popup);
 
       marker.addTo(map);
-    })
-  );
-  await Promise.all(promises);
-}
 
+      return { marker, row }; // Return both marker and row for further processing
+    });
+  });
+
+  const markersAndRows = await Promise.all(promises);
+
+  // Attach event listener after all markers have been added
+  map.on('popupopen', function (e) {
+    const popupNode = e.popup._contentNode;
+    const button = popupNode.querySelector('#toggleSidebar');
+
+    button.addEventListener('click', function () {
+      var sidebar = document.getElementById('sidebar');
+
+      // Find the corresponding row for the clicked popup
+      const { row } = markersAndRows.find(
+        ({ marker }) => marker === e.popup._source
+      );
+
+      sidebar.innerHTML = renderSidebarContent(template2, row);
+
+      sidebar.classList.toggle('show');
+    });
+  });
+}
 populateMap();
 
 /*

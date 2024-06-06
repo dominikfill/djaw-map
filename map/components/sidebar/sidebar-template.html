@@ -26,13 +26,15 @@
         padding: 15px;
       }
 
-      p.country {
+      p.src {
         font-size: 15px;
+        color: black;
         margin: 0 0 0.5em 0;
       }
 
-      p.name {
+      p.title {
         font-size: 20px;
+        color: black;
         margin: 0;
         background-color: #add8e6;
         text-align: center;
@@ -74,16 +76,18 @@
 
   <body class="popup-body">
     <div id="popup">
-      <p class="country">{{{country_ISO3}}}</p>
-      <p class="name"><b>{{{name_modern}}}</b></p>
-      <aside>
-        <p class="placename"><b>{{{name_historical}}}</b></p>
-        {{#name_modern}}
-        <p class="placename-is-historical">hist.</p>
-        {{/name_modern}}
-      </aside>
-      <a id="popup-link" href="{{{wikipedia}}}" target="_blank">wikipedia</a>
-      <button id="toggleSidebar">Quellen</button>
+      <p class="title"><b>Quellen</b></p>
+      <p class="src">{{{src}}}</p>
+      {{^src}}
+      <p class="src">-</p>
+      {{/src}}
+      <p class="title"><b>Quote</b></p>
+      <p class="src">{{{src_quote}}}</p>
+      {{^src_quote}}
+      <p class="src">-</p>
+      {{/src_quote}} {{#src_link}}
+      <a id="popup-link" href="{{{src_link}}}" target="_blank">source</a>
+      {{/src_link}}
     </div>
   </body>
 </html>
