@@ -2,7 +2,7 @@
 <html>
   <head>
     <style>
-      body {
+      .popp-body {
         font-family: Verdana, sans-serif;
         background-color: #f0f0f0;
         display: flex;
@@ -59,20 +59,20 @@
         margin: 0 0 0 0.3em;
       }
 
-      a {
+      #popup-link {
         margin: 0.5em 0 0 0;
         font-size: 16px;
         color: #1e90ff;
         text-decoration: none;
       }
 
-      a:hover {
+      #popup-link:hover {
         text-decoration: underline;
       }
     </style>
   </head>
 
-  <body>
+  <body class="popup-body">
     <div id="popup">
       <p class="country">{{{country_ISO3}}}</p>
       <p class="name"><b>{{{name_modern}}}</b></p>
@@ -82,7 +82,7 @@
         <p class="placename-is-historical">hist.</p>
         {{/name_modern}}
       </aside>
-      <a href="{{{wikipedia}}}" target="_blank">wikipedia</a>
+      <a id="popup-link" href="{{{wikipedia}}}" target="_blank">wikipedia</a>
     </div>
   </body>
 </html>

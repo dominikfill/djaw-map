@@ -1,7 +1,7 @@
-import locations from './res/data/locations.tsv?url';
-import renderPopupContent from './popup/popup.js';
-import fetchAndParseTSV from './fetchData.js';
-import template_url from './popup/template.html?url';
+import locations from '../../res/data/locations.tsv?url';
+import renderPopupContent from '../popup/popup.js';
+import fetchAndParseTSV from '../utils/fetchData.js';
+import template_url from '../popup/popup-template.html?url';
 
 var CartoDB_PositronNoLabels = L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
